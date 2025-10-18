@@ -1,0 +1,30 @@
+# RQ-VAE LoRA Training Requirements
+
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+peft>=0.4.0
+accelerate>=0.20.0
+
+# Data processing
+numpy>=1.21.0
+pandas>=1.3.0
+datasets>=2.0.0
+
+# Training and monitoring
+wandb>=0.15.0
+tensorboard>=2.10.0
+
+# Utilities
+tqdm>=4.64.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Optional: for better performance
+flash-attn>=2.0.0  # Requires CUDA
+bitsandbytes>=0.39.0  # For 8-bit training
+
+# Development
+jupyter>=1.0.0
+ipykernel>=6.0.0
