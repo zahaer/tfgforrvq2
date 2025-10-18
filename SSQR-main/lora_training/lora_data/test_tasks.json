@@ -1,0 +1,30 @@
+[
+  {
+    "instruction": "Explain the quantized representation of entity 'Barack Obama':\n<ENT>Barack Obama</ENT> <CODE>Q0_481:Q1_137:Q2_783</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Barack Obama' consists of 4 sequence positions, each with 3 quantizer levels.",
+    "task_type": "understanding",
+    "entity_id": 0
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Donald Trump':\n<ENT>Donald Trump</ENT> <CODE>Q0_909:Q1_334:Q2_268</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Donald Trump' consists of 4 sequence positions, each with 3 quantizer levels.",
+    "task_type": "understanding",
+    "entity_id": 1
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Joe Biden':\n<ENT>Joe Biden</ENT> <CODE>Q0_783:Q1_616:Q2_34</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Joe Biden' consists of 4 sequence positions, each with 3 quantizer levels.",
+    "task_type": "understanding",
+    "entity_id": 2
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Hillary Clinton':\n<ENT>Hillary Clinton</ENT> <CODE>Q0_336:Q1_295:Q2_346</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Hillary Clinton' consists of 4 sequence positions, each with 3 quantizer levels.",
+    "task_type": "understanding",
+    "entity_id": 3
+  }
+]

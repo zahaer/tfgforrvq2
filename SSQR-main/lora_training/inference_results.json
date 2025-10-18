@@ -1,0 +1,24 @@
+{
+  "test_entities": [
+    "Entity_0001",
+    "Entity_0002",
+    "Entity_0003"
+  ],
+  "inference_results": [
+    {
+      "entity": "Entity_0001",
+      "prompt": "Explain the quantized representation of entity 'Entity_0001'",
+      "response": "The quantized representation of 'Entity_0001' consists of multiple sequence positions with quantizer levels."
+    },
+    {
+      "entity": "Entity_0002",
+      "prompt": "Explain the quantized representation of entity 'Entity_0002'",
+      "response": "The quantized representation of 'Entity_0002' consists of multiple sequence positions with quantizer levels."
+    },
+    {
+      "entity": "Entity_0003",
+      "prompt": "Explain the quantized representation of entity 'Entity_0003'",
+      "response": "The quantized representation of 'Entity_0003' consists of multiple sequence positions with quantizer levels."
+    }
+  ]
+}

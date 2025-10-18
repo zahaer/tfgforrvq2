@@ -1,0 +1,922 @@
+[
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0000':\n<ENT>Entity_0000</ENT> <CODE>Q0_590:Q1_939:Q2_773:Q3_885|Q0_721:Q1_804:Q2_254:Q3_346|Q0_940:Q1_52:Q2_127:Q3_600|Q0_665:Q1_730:Q2_318:Q3_11|Q0_69:Q1_533:Q2_524:Q3_946|Q0_343:Q1_589:Q2_436:Q3_109|Q0_161:Q1_265:Q2_88:Q3_727|Q0_690:Q1_397:Q2_830:Q3_506|Q0_406:Q1_811:Q2_904:Q3_596|Q0_95:Q1_862:Q2_411:Q3_374|Q0_772:Q1_228:Q2_319:Q3_796|Q0_891:Q1_976:Q2_441:Q3_213|Q0_486:Q1_608:Q2_944:Q3_482|Q0_56:Q1_84:Q2_962:Q3_831|Q0_500:Q1_403:Q2_549:Q3_156|Q0_356:Q1_582:Q2_1005:Q3_240</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0000' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 0
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0001':\n<ENT>Entity_0001</ENT> <CODE>Q0_753:Q1_425:Q2_353:Q3_386|Q0_116:Q1_1003:Q2_941:Q3_669|Q0_736:Q1_720:Q2_590:Q3_141|Q0_129:Q1_874:Q2_93:Q3_615|Q0_492:Q1_755:Q2_696:Q3_359|Q0_218:Q1_127:Q2_749:Q3_11|Q0_456:Q1_934:Q2_452:Q3_346|Q0_655:Q1_356:Q2_387:Q3_113|Q0_693:Q1_888:Q2_363:Q3_879|Q0_27:Q1_745:Q2_109:Q3_560|Q0_481:Q1_124:Q2_323:Q3_117|Q0_964:Q1_974:Q2_945:Q3_757|Q0_276:Q1_445:Q2_724:Q3_326|Q0_527:Q1_257:Q2_437:Q3_623|Q0_191:Q1_1008:Q2_468:Q3_22|Q0_153:Q1_898:Q2_574:Q3_658</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0001' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 1
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0002':\n<ENT>Entity_0002</ENT> <CODE>Q0_547:Q1_372:Q2_400:Q3_65|Q0_458:Q1_4:Q2_839:Q3_718|Q0_846:Q1_730:Q2_831:Q3_305|Q0_303:Q1_297:Q2_945:Q3_80|Q0_690:Q1_248:Q2_834:Q3_689|Q0_320:Q1_416:Q2_116:Q3_993|Q0_757:Q1_790:Q2_98:Q3_875|Q0_417:Q1_770:Q2_925:Q3_557|Q0_146:Q1_956:Q2_368:Q3_290|Q0_586:Q1_730:Q2_459:Q3_105|Q0_162:Q1_959:Q2_1013:Q3_346|Q0_778:Q1_82:Q2_150:Q3_169|Q0_391:Q1_56:Q2_281:Q3_708|Q0_371:Q1_619:Q2_737:Q3_162|Q0_578:Q1_723:Q2_191:Q3_326|Q0_509:Q1_113:Q2_844:Q3_19</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0002' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 2
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0003':\n<ENT>Entity_0003</ENT> <CODE>Q0_654:Q1_901:Q2_547:Q3_240|Q0_750:Q1_969:Q2_997:Q3_917|Q0_388:Q1_341:Q2_169:Q3_535|Q0_527:Q1_79:Q2_487:Q3_952|Q0_224:Q1_871:Q2_539:Q3_613|Q0_272:Q1_684:Q2_914:Q3_245|Q0_375:Q1_357:Q2_947:Q3_634|Q0_690:Q1_615:Q2_574:Q3_525|Q0_504:Q1_176:Q2_404:Q3_363|Q0_973:Q1_119:Q2_305:Q3_353|Q0_398:Q1_393:Q2_74:Q3_0|Q0_494:Q1_900:Q2_309:Q3_637|Q0_88:Q1_9:Q2_382:Q3_790|Q0_473:Q1_6:Q2_150:Q3_6|Q0_883:Q1_823:Q2_737:Q3_155|Q0_693:Q1_458:Q2_353:Q3_319</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0003' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 3
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0004':\n<ENT>Entity_0004</ENT> <CODE>Q0_646:Q1_329:Q2_435:Q3_286|Q0_227:Q1_285:Q2_127:Q3_155|Q0_730:Q1_187:Q2_62:Q3_539|Q0_932:Q1_941:Q2_428:Q3_712|Q0_500:Q1_603:Q2_442:Q3_215|Q0_616:Q1_452:Q2_415:Q3_374|Q0_545:Q1_446:Q2_886:Q3_51|Q0_937:Q1_498:Q2_883:Q3_803|Q0_461:Q1_898:Q2_525:Q3_273|Q0_926:Q1_825:Q2_642:Q3_692|Q0_611:Q1_898:Q2_144:Q3_791|Q0_470:Q1_673:Q2_237:Q3_769|Q0_236:Q1_770:Q2_1021:Q3_848|Q0_377:Q1_603:Q2_981:Q3_959|Q0_600:Q1_93:Q2_854:Q3_483|Q0_698:Q1_764:Q2_100:Q3_629</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0004' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 4
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0005':\n<ENT>Entity_0005</ENT> <CODE>Q0_488:Q1_520:Q2_318:Q3_243|Q0_505:Q1_943:Q2_954:Q3_372|Q0_324:Q1_757:Q2_328:Q3_334|Q0_106:Q1_837:Q2_773:Q3_16|Q0_484:Q1_360:Q2_924:Q3_853|Q0_710:Q1_614:Q2_268:Q3_96|Q0_567:Q1_568:Q2_137:Q3_848|Q0_497:Q1_565:Q2_839:Q3_794|Q0_492:Q1_614:Q2_791:Q3_878|Q0_176:Q1_530:Q2_588:Q3_781|Q0_497:Q1_674:Q2_875:Q3_811|Q0_497:Q1_872:Q2_306:Q3_281|Q0_589:Q1_100:Q2_557:Q3_334|Q0_652:Q1_328:Q2_21:Q3_667|Q0_324:Q1_686:Q2_867:Q3_237|Q0_932:Q1_341:Q2_940:Q3_677</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0005' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 5
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0006':\n<ENT>Entity_0006</ENT> <CODE>Q0_874:Q1_459:Q2_798:Q3_321|Q0_334:Q1_758:Q2_545:Q3_775|Q0_1010:Q1_103:Q2_882:Q3_102|Q0_1011:Q1_551:Q2_547:Q3_251|Q0_274:Q1_291:Q2_944:Q3_63|Q0_244:Q1_283:Q2_497:Q3_349|Q0_24:Q1_568:Q2_286:Q3_18|Q0_156:Q1_976:Q2_964:Q3_821|Q0_372:Q1_357:Q2_460:Q3_15|Q0_67:Q1_87:Q2_368:Q3_958|Q0_470:Q1_361:Q2_488:Q3_339|Q0_627:Q1_737:Q2_932:Q3_170|Q0_215:Q1_349:Q2_834:Q3_60|Q0_436:Q1_875:Q2_691:Q3_887|Q0_990:Q1_638:Q2_779:Q3_850|Q0_488:Q1_425:Q2_492:Q3_800</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0006' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 6
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0007':\n<ENT>Entity_0007</ENT> <CODE>Q0_745:Q1_226:Q2_588:Q3_978|Q0_300:Q1_611:Q2_118:Q3_791|Q0_13:Q1_610:Q2_899:Q3_461|Q0_655:Q1_288:Q2_475:Q3_662|Q0_835:Q1_459:Q2_125:Q3_212|Q0_494:Q1_725:Q2_396:Q3_353|Q0_195:Q1_265:Q2_805:Q3_11|Q0_343:Q1_861:Q2_854:Q3_878|Q0_666:Q1_1002:Q2_452:Q3_746|Q0_834:Q1_790:Q2_574:Q3_739|Q0_842:Q1_721:Q2_445:Q3_596|Q0_734:Q1_896:Q2_524:Q3_424|Q0_486:Q1_651:Q2_460:Q3_474|Q0_1023:Q1_966:Q2_85:Q3_948|Q0_289:Q1_722:Q2_389:Q3_821|Q0_219:Q1_404:Q2_485:Q3_427</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0007' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 7
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0008':\n<ENT>Entity_0008</ENT> <CODE>Q0_156:Q1_793:Q2_373:Q3_961|Q0_748:Q1_246:Q2_421:Q3_372|Q0_1015:Q1_648:Q2_78:Q3_437|Q0_156:Q1_361:Q2_3:Q3_156|Q0_717:Q1_389:Q2_745:Q3_354|Q0_245:Q1_525:Q2_543:Q3_775|Q0_202:Q1_457:Q2_533:Q3_374|Q0_232:Q1_582:Q2_888:Q3_400|Q0_255:Q1_366:Q2_90:Q3_245|Q0_793:Q1_1015:Q2_515:Q3_243|Q0_791:Q1_733:Q2_807:Q3_952|Q0_523:Q1_196:Q2_452:Q3_571|Q0_460:Q1_56:Q2_30:Q3_359|Q0_988:Q1_940:Q2_85:Q3_631|Q0_84:Q1_831:Q2_295:Q3_642|Q0_990:Q1_1022:Q2_109:Q3_129</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0008' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 8
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0009':\n<ENT>Entity_0009</ENT> <CODE>Q0_695:Q1_845:Q2_845:Q3_81|Q0_940:Q1_889:Q2_423:Q3_190|Q0_729:Q1_637:Q2_647:Q3_500|Q0_302:Q1_965:Q2_733:Q3_718|Q0_809:Q1_726:Q2_818:Q3_217|Q0_593:Q1_739:Q2_524:Q3_401|Q0_286:Q1_885:Q2_7:Q3_814|Q0_434:Q1_417:Q2_60:Q3_921|Q0_130:Q1_780:Q2_602:Q3_364|Q0_111:Q1_97:Q2_85:Q3_151|Q0_50:Q1_463:Q2_223:Q3_850|Q0_987:Q1_987:Q2_51:Q3_106|Q0_650:Q1_620:Q2_485:Q3_712|Q0_169:Q1_301:Q2_915:Q3_384|Q0_245:Q1_870:Q2_925:Q3_128|Q0_260:Q1_501:Q2_499:Q3_63</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0009' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 9
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0010':\n<ENT>Entity_0010</ENT> <CODE>Q0_793:Q1_724:Q2_368:Q3_507|Q0_307:Q1_449:Q2_867:Q3_493|Q0_333:Q1_964:Q2_929:Q3_785|Q0_486:Q1_591:Q2_331:Q3_392|Q0_768:Q1_598:Q2_378:Q3_976|Q0_703:Q1_421:Q2_867:Q3_551|Q0_289:Q1_701:Q2_90:Q3_811|Q0_348:Q1_908:Q2_701:Q3_250|Q0_54:Q1_335:Q2_493:Q3_742|Q0_748:Q1_79:Q2_759:Q3_613|Q0_963:Q1_899:Q2_125:Q3_749|Q0_567:Q1_306:Q2_953:Q3_530|Q0_375:Q1_79:Q2_437:Q3_14|Q0_454:Q1_707:Q2_572:Q3_941|Q0_151:Q1_543:Q2_557:Q3_819|Q0_730:Q1_501:Q2_29:Q3_136</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0010' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 10
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0011':\n<ENT>Entity_0011</ENT> <CODE>Q0_481:Q1_757:Q2_734:Q3_642|Q0_937:Q1_159:Q2_700:Q3_528|Q0_456:Q1_208:Q2_342:Q3_329|Q0_193:Q1_435:Q2_152:Q3_486|Q0_116:Q1_651:Q2_803:Q3_940|Q0_60:Q1_921:Q2_818:Q3_8|Q0_824:Q1_530:Q2_585:Q3_18|Q0_322:Q1_507:Q2_524:Q3_886|Q0_441:Q1_417:Q2_118:Q3_796|Q0_679:Q1_620:Q2_59:Q3_336|Q0_100:Q1_329:Q2_1023:Q3_372|Q0_67:Q1_24:Q2_91:Q3_63|Q0_57:Q1_703:Q2_539:Q3_116|Q0_567:Q1_61:Q2_496:Q3_136|Q0_527:Q1_187:Q2_104:Q3_266|Q0_6:Q1_543:Q2_545:Q3_326</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0011' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 11
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0012':\n<ENT>Entity_0012</ENT> <CODE>Q0_425:Q1_38:Q2_928:Q3_971|Q0_67:Q1_685:Q2_1007:Q3_436|Q0_521:Q1_713:Q2_281:Q3_133|Q0_886:Q1_902:Q2_12:Q3_940|Q0_805:Q1_538:Q2_896:Q3_245|Q0_1021:Q1_321:Q2_539:Q3_525|Q0_407:Q1_304:Q2_419:Q3_38|Q0_820:Q1_823:Q2_839:Q3_144|Q0_30:Q1_424:Q2_865:Q3_629|Q0_539:Q1_127:Q2_433:Q3_339|Q0_763:Q1_892:Q2_109:Q3_31|Q0_441:Q1_689:Q2_228:Q3_590|Q0_374:Q1_452:Q2_776:Q3_182|Q0_84:Q1_446:Q2_100:Q3_692|Q0_831:Q1_1015:Q2_434:Q3_353|Q0_488:Q1_740:Q2_334:Q3_637</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0012' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 12
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0013':\n<ENT>Entity_0013</ENT> <CODE>Q0_338:Q1_797:Q2_83:Q3_638|Q0_419:Q1_459:Q2_373:Q3_561|Q0_750:Q1_582:Q2_769:Q3_702|Q0_922:Q1_738:Q2_814:Q3_332|Q0_896:Q1_403:Q2_487:Q3_290|Q0_254:Q1_735:Q2_223:Q3_468|Q0_736:Q1_818:Q2_997:Q3_13|Q0_302:Q1_269:Q2_116:Q3_276|Q0_614:Q1_504:Q2_196:Q3_68|Q0_0:Q1_713:Q2_1007:Q3_150|Q0_513:Q1_1004:Q2_935:Q3_746|Q0_539:Q1_912:Q2_40:Q3_19|Q0_54:Q1_976:Q2_869:Q3_722|Q0_141:Q1_818:Q2_447:Q3_198|Q0_706:Q1_109:Q2_927:Q3_691|Q0_151:Q1_477:Q2_121:Q3_61</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0013' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 13
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0014':\n<ENT>Entity_0014</ENT> <CODE>Q0_960:Q1_226:Q2_401:Q3_975|Q0_297:Q1_486:Q2_728:Q3_155|Q0_463:Q1_683:Q2_334:Q3_266|Q0_257:Q1_735:Q2_906:Q3_409|Q0_1017:Q1_482:Q2_823:Q3_561|Q0_534:Q1_431:Q2_428:Q3_245|Q0_789:Q1_980:Q2_1006:Q3_977|Q0_72:Q1_610:Q2_428:Q3_586|Q0_987:Q1_349:Q2_400:Q3_642|Q0_378:Q1_691:Q2_657:Q3_240|Q0_810:Q1_622:Q2_61:Q3_615|Q0_987:Q1_824:Q2_69:Q3_685|Q0_832:Q1_534:Q2_476:Q3_801|Q0_488:Q1_100:Q2_624:Q3_702|Q0_653:Q1_21:Q2_994:Q3_500|Q0_260:Q1_1017:Q2_411:Q3_152</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0014' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 14
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0015':\n<ENT>Entity_0015</ENT> <CODE>Q0_999:Q1_504:Q2_290:Q3_819|Q0_279:Q1_772:Q2_318:Q3_882|Q0_403:Q1_160:Q2_834:Q3_113|Q0_308:Q1_869:Q2_338:Q3_759|Q0_1002:Q1_151:Q2_875:Q3_61|Q0_147:Q1_716:Q2_297:Q3_170|Q0_270:Q1_304:Q2_812:Q3_878|Q0_126:Q1_332:Q2_888:Q3_159|Q0_338:Q1_894:Q2_793:Q3_658|Q0_806:Q1_470:Q2_66:Q3_387|Q0_382:Q1_12:Q2_895:Q3_494|Q0_1021:Q1_306:Q2_322:Q3_316|Q0_892:Q1_521:Q2_67:Q3_766|Q0_43:Q1_588:Q2_991:Q3_5|Q0_539:Q1_389:Q2_59:Q3_567|Q0_820:Q1_212:Q2_654:Q3_946</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0015' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 15
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0016':\n<ENT>Entity_0016</ENT> <CODE>Q0_939:Q1_600:Q2_860:Q3_606|Q0_908:Q1_143:Q2_368:Q3_483|Q0_88:Q1_864:Q2_454:Q3_597|Q0_924:Q1_206:Q2_953:Q3_692|Q0_497:Q1_450:Q2_342:Q3_400|Q0_391:Q1_448:Q2_722:Q3_7|Q0_669:Q1_325:Q2_535:Q3_838|Q0_308:Q1_624:Q2_460:Q3_129|Q0_385:Q1_93:Q2_342:Q3_321|Q0_154:Q1_825:Q2_121:Q3_320|Q0_868:Q1_212:Q2_943:Q3_606|Q0_950:Q1_974:Q2_704:Q3_359|Q0_53:Q1_912:Q2_634:Q3_12|Q0_795:Q1_352:Q2_508:Q3_848|Q0_756:Q1_832:Q2_1021:Q3_674|Q0_850:Q1_24:Q2_74:Q3_51</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0016' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 16
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0017':\n<ENT>Entity_0017</ENT> <CODE>Q0_810:Q1_732:Q2_682:Q3_66|Q0_935:Q1_344:Q2_463:Q3_861|Q0_999:Q1_722:Q2_133:Q3_509|Q0_343:Q1_999:Q2_306:Q3_553|Q0_154:Q1_48:Q2_476:Q3_882|Q0_604:Q1_228:Q2_1011:Q3_325|Q0_529:Q1_840:Q2_658:Q3_228|Q0_434:Q1_599:Q2_83:Q3_964|Q0_563:Q1_1017:Q2_209:Q3_978|Q0_878:Q1_682:Q2_864:Q3_251|Q0_926:Q1_788:Q2_512:Q3_399|Q0_946:Q1_246:Q2_588:Q3_637|Q0_353:Q1_114:Q2_463:Q3_936|Q0_424:Q1_330:Q2_106:Q3_784|Q0_54:Q1_143:Q2_488:Q3_692|Q0_866:Q1_166:Q2_962:Q3_425</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0017' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 17
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0018':\n<ENT>Entity_0018</ENT> <CODE>Q0_343:Q1_591:Q2_872:Q3_914|Q0_966:Q1_1002:Q2_539:Q3_881|Q0_129:Q1_127:Q2_924:Q3_113|Q0_504:Q1_778:Q2_619:Q3_250|Q0_146:Q1_905:Q2_992:Q3_947|Q0_883:Q1_104:Q2_62:Q3_741|Q0_219:Q1_263:Q2_866:Q3_901|Q0_667:Q1_591:Q2_872:Q3_674|Q0_256:Q1_830:Q2_520:Q3_339|Q0_484:Q1_233:Q2_932:Q3_759|Q0_96:Q1_549:Q2_381:Q3_948|Q0_523:Q1_330:Q2_982:Q3_266|Q0_366:Q1_194:Q2_972:Q3_357|Q0_696:Q1_419:Q2_912:Q3_400|Q0_236:Q1_452:Q2_440:Q3_33|Q0_6:Q1_196:Q2_527:Q3_700</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0018' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 18
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0019':\n<ENT>Entity_0019</ENT> <CODE>Q0_231:Q1_790:Q2_924:Q3_9|Q0_54:Q1_124:Q2_363:Q3_727|Q0_215:Q1_178:Q2_353:Q3_842|Q0_296:Q1_691:Q2_912:Q3_900|Q0_81:Q1_528:Q2_411:Q3_940|Q0_311:Q1_687:Q2_959:Q3_295|Q0_601:Q1_419:Q2_907:Q3_415|Q0_19:Q1_1015:Q2_527:Q3_560|Q0_1021:Q1_976:Q2_590:Q3_19|Q0_158:Q1_416:Q2_357:Q3_336|Q0_467:Q1_138:Q2_373:Q3_307|Q0_343:Q1_533:Q2_91:Q3_323|Q0_989:Q1_417:Q2_159:Q3_878|Q0_243:Q1_82:Q2_260:Q3_733|Q0_950:Q1_806:Q2_935:Q3_367|Q0_609:Q1_696:Q2_56:Q3_114</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0019' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 19
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0020':\n<ENT>Entity_0020</ENT> <CODE>Q0_793:Q1_863:Q2_328:Q3_488|Q0_129:Q1_1002:Q2_353:Q3_52|Q0_1002:Q1_925:Q2_557:Q3_918|Q0_67:Q1_729:Q2_366:Q3_68|Q0_803:Q1_304:Q2_572:Q3_65|Q0_103:Q1_588:Q2_1009:Q3_12|Q0_614:Q1_558:Q2_279:Q3_282|Q0_920:Q1_461:Q2_295:Q3_700|Q0_862:Q1_864:Q2_784:Q3_14|Q0_870:Q1_545:Q2_286:Q3_487|Q0_705:Q1_635:Q2_599:Q3_188|Q0_56:Q1_6:Q2_724:Q3_273|Q0_730:Q1_8:Q2_159:Q3_796|Q0_721:Q1_448:Q2_482:Q3_400|Q0_204:Q1_840:Q2_610:Q3_68|Q0_184:Q1_188:Q2_116:Q3_265</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0020' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 20
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0021':\n<ENT>Entity_0021</ENT> <CODE>Q0_6:Q1_458:Q2_944:Q3_47|Q0_68:Q1_913:Q2_152:Q3_514|Q0_818:Q1_671:Q2_61:Q3_941|Q0_19:Q1_757:Q2_962:Q3_425|Q0_358:Q1_220:Q2_423:Q3_266|Q0_180:Q1_959:Q2_962:Q3_901|Q0_124:Q1_966:Q2_839:Q3_801|Q0_177:Q1_994:Q2_26:Q3_642|Q0_279:Q1_966:Q2_452:Q3_494|Q0_202:Q1_562:Q2_192:Q3_643|Q0_523:Q1_367:Q2_793:Q3_959|Q0_513:Q1_341:Q2_810:Q3_886|Q0_503:Q1_9:Q2_613:Q3_545|Q0_653:Q1_24:Q2_844:Q3_371|Q0_225:Q1_544:Q2_400:Q3_169|Q0_829:Q1_679:Q2_839:Q3_384</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0021' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 21
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0022':\n<ENT>Entity_0022</ENT> <CODE>Q0_343:Q1_636:Q2_60:Q3_444|Q0_260:Q1_111:Q2_725:Q3_25|Q0_873:Q1_580:Q2_731:Q3_166|Q0_368:Q1_687:Q2_685:Q3_803|Q0_334:Q1_302:Q2_159:Q3_19|Q0_850:Q1_658:Q2_297:Q3_346|Q0_288:Q1_886:Q2_310:Q3_767|Q0_320:Q1_349:Q2_256:Q3_533|Q0_655:Q1_138:Q2_491:Q3_510|Q0_883:Q1_357:Q2_381:Q3_248|Q0_477:Q1_881:Q2_366:Q3_244|Q0_745:Q1_414:Q2_318:Q3_213|Q0_518:Q1_952:Q2_256:Q3_54|Q0_129:Q1_194:Q2_132:Q3_402|Q0_108:Q1_966:Q2_345:Q3_321|Q0_916:Q1_187:Q2_125:Q3_1008</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0022' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 22
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0023':\n<ENT>Entity_0023</ENT> <CODE>Q0_898:Q1_353:Q2_722:Q3_267|Q0_647:Q1_919:Q2_964:Q3_189|Q0_690:Q1_638:Q2_798:Q3_688|Q0_652:Q1_173:Q2_445:Q3_835|Q0_296:Q1_729:Q2_346:Q3_163|Q0_450:Q1_138:Q2_442:Q3_940|Q0_372:Q1_173:Q2_1023:Q3_147|Q0_243:Q1_157:Q2_736:Q3_692|Q0_1005:Q1_568:Q2_338:Q3_748|Q0_824:Q1_604:Q2_150:Q3_221|Q0_420:Q1_662:Q2_54:Q3_374|Q0_738:Q1_76:Q2_260:Q3_821|Q0_488:Q1_394:Q2_841:Q3_868|Q0_191:Q1_591:Q2_196:Q3_700|Q0_611:Q1_427:Q2_608:Q3_759|Q0_239:Q1_216:Q2_1009:Q3_797</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0023' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 23
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0024':\n<ENT>Entity_0024</ENT> <CODE>Q0_821:Q1_646:Q2_861:Q3_141|Q0_338:Q1_470:Q2_267:Q3_777|Q0_294:Q1_84:Q2_240:Q3_400|Q0_986:Q1_764:Q2_499:Q3_374|Q0_872:Q1_671:Q2_116:Q3_781|Q0_334:Q1_120:Q2_383:Q3_299|Q0_365:Q1_603:Q2_331:Q3_524|Q0_735:Q1_772:Q2_1021:Q3_896|Q0_748:Q1_445:Q2_529:Q3_674|Q0_420:Q1_769:Q2_428:Q3_1013|Q0_593:Q1_731:Q2_191:Q3_803|Q0_107:Q1_177:Q2_400:Q3_600|Q0_338:Q1_599:Q2_664:Q3_921|Q0_192:Q1_101:Q2_333:Q3_106|Q0_904:Q1_291:Q2_539:Q3_1002|Q0_696:Q1_430:Q2_409:Q3_741</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0024' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 24
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0025':\n<ENT>Entity_0025</ENT> <CODE>Q0_803:Q1_670:Q2_614:Q3_29|Q0_361:Q1_888:Q2_860:Q3_384|Q0_425:Q1_647:Q2_571:Q3_393|Q0_24:Q1_234:Q2_584:Q3_688|Q0_425:Q1_8:Q2_590:Q3_914|Q0_112:Q1_212:Q2_138:Q3_350|Q0_931:Q1_898:Q2_685:Q3_414|Q0_296:Q1_651:Q2_267:Q3_88|Q0_451:Q1_599:Q2_109:Q3_245|Q0_37:Q1_353:Q2_925:Q3_700|Q0_14:Q1_691:Q2_889:Q3_445|Q0_283:Q1_939:Q2_487:Q3_399|Q0_231:Q1_269:Q2_259:Q3_805|Q0_843:Q1_141:Q2_746:Q3_901|Q0_567:Q1_568:Q2_419:Q3_348|Q0_799:Q1_228:Q2_869:Q3_414</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0025' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 25
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0026':\n<ENT>Entity_0026</ENT> <CODE>Q0_486:Q1_87:Q2_829:Q3_906|Q0_702:Q1_330:Q2_953:Q3_138|Q0_337:Q1_417:Q2_118:Q3_461|Q0_926:Q1_713:Q2_763:Q3_819|Q0_988:Q1_356:Q2_315:Q3_451|Q0_650:Q1_857:Q2_60:Q3_513|Q0_90:Q1_832:Q2_133:Q3_996|Q0_781:Q1_879:Q2_765:Q3_489|Q0_889:Q1_919:Q2_207:Q3_386|Q0_745:Q1_557:Q2_755:Q3_423|Q0_147:Q1_367:Q2_529:Q3_136|Q0_589:Q1_184:Q2_1021:Q3_535|Q0_657:Q1_867:Q2_68:Q3_458|Q0_74:Q1_348:Q2_544:Q3_459|Q0_803:Q1_196:Q2_133:Q3_117|Q0_500:Q1_70:Q2_875:Q3_821</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0026' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 26
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0027':\n<ENT>Entity_0027</ENT> <CODE>Q0_88:Q1_486:Q2_648:Q3_852|Q0_236:Q1_141:Q2_571:Q3_389|Q0_679:Q1_588:Q2_704:Q3_316|Q0_1003:Q1_673:Q2_547:Q3_513|Q0_859:Q1_859:Q2_125:Q3_643|Q0_696:Q1_994:Q2_793:Q3_629|Q0_693:Q1_110:Q2_557:Q3_813|Q0_297:Q1_862:Q2_545:Q3_60|Q0_1014:Q1_109:Q2_240:Q3_963|Q0_458:Q1_53:Q2_526:Q3_399|Q0_820:Q1_449:Q2_427:Q3_822|Q0_772:Q1_580:Q2_475:Q3_332|Q0_217:Q1_519:Q2_411:Q3_130|Q0_661:Q1_874:Q2_84:Q3_8|Q0_465:Q1_530:Q2_674:Q3_39|Q0_126:Q1_734:Q2_899:Q3_791</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0027' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 27
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0028':\n<ENT>Entity_0028</ENT> <CODE>Q0_14:Q1_534:Q2_209:Q3_61|Q0_504:Q1_208:Q2_724:Q3_178|Q0_287:Q1_419:Q2_945:Q3_128|Q0_260:Q1_687:Q2_363:Q3_955|Q0_600:Q1_1022:Q2_732:Q3_950|Q0_255:Q1_812:Q2_948:Q3_724|Q0_547:Q1_733:Q2_141:Q3_467|Q0_924:Q1_597:Q2_348:Q3_401|Q0_689:Q1_149:Q2_388:Q3_500|Q0_301:Q1_187:Q2_60:Q3_507|Q0_420:Q1_519:Q2_527:Q3_240|Q0_302:Q1_398:Q2_0:Q3_1010|Q0_225:Q1_514:Q2_897:Q3_936|Q0_238:Q1_87:Q2_911:Q3_948|Q0_946:Q1_1003:Q2_433:Q3_86|Q0_601:Q1_94:Q2_413:Q3_946</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0028' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 28
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0029':\n<ENT>Entity_0029</ENT> <CODE>Q0_833:Q1_648:Q2_801:Q3_994|Q0_287:Q1_248:Q2_219:Q3_975|Q0_75:Q1_701:Q2_914:Q3_182|Q0_458:Q1_208:Q2_225:Q3_372|Q0_872:Q1_696:Q2_889:Q3_33|Q0_368:Q1_50:Q2_962:Q3_401|Q0_334:Q1_536:Q2_545:Q3_742|Q0_393:Q1_533:Q2_400:Q3_681|Q0_47:Q1_431:Q2_823:Q3_243|Q0_935:Q1_870:Q2_230:Q3_102|Q0_129:Q1_481:Q2_972:Q3_786|Q0_708:Q1_372:Q2_934:Q3_985|Q0_898:Q1_492:Q2_110:Q3_637|Q0_995:Q1_91:Q2_435:Q3_266|Q0_650:Q1_764:Q2_991:Q3_216|Q0_39:Q1_1015:Q2_475:Q3_535</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0029' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 29
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0030':\n<ENT>Entity_0030</ENT> <CODE>Q0_504:Q1_713:Q2_911:Q3_478|Q0_916:Q1_311:Q2_932:Q3_205|Q0_816:Q1_164:Q2_866:Q3_887|Q0_312:Q1_149:Q2_674:Q3_282|Q0_377:Q1_835:Q2_923:Q3_31|Q0_926:Q1_311:Q2_110:Q3_551|Q0_289:Q1_1005:Q2_358:Q3_356|Q0_658:Q1_469:Q2_366:Q3_690|Q0_791:Q1_73:Q2_322:Q3_190|Q0_303:Q1_778:Q2_27:Q3_745|Q0_690:Q1_154:Q2_944:Q3_13|Q0_463:Q1_100:Q2_309:Q3_402|Q0_569:Q1_951:Q2_882:Q3_741|Q0_320:Q1_330:Q2_908:Q3_61|Q0_695:Q1_269:Q2_801:Q3_699|Q0_268:Q1_74:Q2_310:Q3_353</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0030' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 30
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0031':\n<ENT>Entity_0031</ENT> <CODE>Q0_490:Q1_751:Q2_362:Q3_158|Q0_225:Q1_876:Q2_84:Q3_977|Q0_878:Q1_357:Q2_222:Q3_418|Q0_124:Q1_932:Q2_387:Q3_582|Q0_469:Q1_671:Q2_732:Q3_208|Q0_425:Q1_165:Q2_508:Q3_609|Q0_831:Q1_967:Q2_997:Q3_81|Q0_456:Q1_265:Q2_865:Q3_579|Q0_575:Q1_234:Q2_812:Q3_906|Q0_112:Q1_936:Q2_732:Q3_294|Q0_187:Q1_608:Q2_85:Q3_1010|Q0_999:Q1_528:Q2_834:Q3_708|Q0_176:Q1_161:Q2_106:Q3_162|Q0_227:Q1_115:Q2_339:Q3_819|Q0_795:Q1_4:Q2_988:Q3_877|Q0_1014:Q1_82:Q2_468:Q3_786</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0031' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 31
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0032':\n<ENT>Entity_0032</ENT> <CODE>Q0_272:Q1_687:Q2_844:Q3_371|Q0_539:Q1_687:Q2_539:Q3_759|Q0_761:Q1_24:Q2_672:Q3_811|Q0_458:Q1_393:Q2_479:Q3_947|Q0_930:Q1_951:Q2_61:Q3_688|Q0_843:Q1_440:Q2_813:Q3_372|Q0_772:Q1_315:Q2_959:Q3_852|Q0_460:Q1_335:Q2_776:Q3_530|Q0_15:Q1_294:Q2_326:Q3_835|Q0_255:Q1_339:Q2_960:Q3_833|Q0_689:Q1_502:Q2_207:Q3_190|Q0_171:Q1_994:Q2_619:Q3_773|Q0_646:Q1_416:Q2_590:Q3_137|Q0_448:Q1_604:Q2_620:Q3_615|Q0_833:Q1_70:Q2_93:Q3_28|Q0_283:Q1_841:Q2_264:Q3_169</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0032' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 32
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0033':\n<ENT>Entity_0033</ENT> <CODE>Q0_757:Q1_248:Q2_118:Q3_766|Q0_914:Q1_634:Q2_674:Q3_611|Q0_268:Q1_133:Q2_209:Q3_712|Q0_225:Q1_203:Q2_34:Q3_17|Q0_585:Q1_495:Q2_114:Q3_887|Q0_88:Q1_652:Q2_140:Q3_538|Q0_690:Q1_45:Q2_717:Q3_224|Q0_650:Q1_764:Q2_54:Q3_941|Q0_614:Q1_166:Q2_420:Q3_681|Q0_219:Q1_321:Q2_209:Q3_978|Q0_593:Q1_87:Q2_195:Q3_947|Q0_95:Q1_461:Q2_991:Q3_710|Q0_308:Q1_938:Q2_845:Q3_281|Q0_333:Q1_977:Q2_639:Q3_190|Q0_821:Q1_690:Q2_10:Q3_500|Q0_661:Q1_568:Q2_912:Q3_613</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0033' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 33
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0034':\n<ENT>Entity_0034</ENT> <CODE>Q0_657:Q1_878:Q2_225:Q3_817|Q0_458:Q1_889:Q2_261:Q3_1020|Q0_891:Q1_454:Q2_1010:Q3_986|Q0_413:Q1_124:Q2_165:Q3_250|Q0_978:Q1_674:Q2_106:Q3_312|Q0_398:Q1_789:Q2_1005:Q3_620|Q0_652:Q1_123:Q2_191:Q3_982|Q0_500:Q1_647:Q2_934:Q3_867|Q0_505:Q1_725:Q2_432:Q3_136|Q0_949:Q1_345:Q2_487:Q3_584|Q0_458:Q1_97:Q2_384:Q3_203|Q0_85:Q1_200:Q2_935:Q3_401|Q0_384:Q1_403:Q2_116:Q3_550|Q0_486:Q1_599:Q2_830:Q3_783|Q0_79:Q1_53:Q2_416:Q3_418|Q0_460:Q1_186:Q2_432:Q3_433</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0034' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 34
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0035':\n<ENT>Entity_0035</ENT> <CODE>Q0_821:Q1_501:Q2_230:Q3_366|Q0_361:Q1_703:Q2_882:Q3_560|Q0_500:Q1_812:Q2_148:Q3_977|Q0_283:Q1_580:Q2_209:Q3_689|Q0_609:Q1_356:Q2_62:Q3_999|Q0_42:Q1_296:Q2_948:Q3_901|Q0_538:Q1_797:Q2_97:Q3_427|Q0_896:Q1_789:Q2_925:Q3_588|Q0_21:Q1_1016:Q2_317:Q3_326|Q0_1007:Q1_703:Q2_948:Q3_584|Q0_351:Q1_222:Q2_535:Q3_9|Q0_238:Q1_459:Q2_182:Q3_54|Q0_831:Q1_496:Q2_882:Q3_851|Q0_862:Q1_53:Q2_957:Q3_822|Q0_634:Q1_302:Q2_845:Q3_839|Q0_44:Q1_919:Q2_65:Q3_367</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0035' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 35
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0036':\n<ENT>Entity_0036</ENT> <CODE>Q0_664:Q1_791:Q2_872:Q3_418|Q0_206:Q1_651:Q2_551:Q3_535|Q0_878:Q1_941:Q2_256:Q3_961|Q0_90:Q1_609:Q2_151:Q3_116|Q0_462:Q1_195:Q2_645:Q3_881|Q0_27:Q1_588:Q2_934:Q3_994|Q0_892:Q1_1002:Q2_262:Q3_11|Q0_27:Q1_614:Q2_647:Q3_861|Q0_338:Q1_777:Q2_992:Q3_51|Q0_443:Q1_497:Q2_1021:Q3_555|Q0_950:Q1_995:Q2_152:Q3_758|Q0_545:Q1_486:Q2_199:Q3_620|Q0_508:Q1_889:Q2_722:Q3_150|Q0_778:Q1_1016:Q2_82:Q3_615|Q0_494:Q1_878:Q2_986:Q3_11|Q0_527:Q1_790:Q2_685:Q3_339</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0036' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 36
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0037':\n<ENT>Entity_0037</ENT> <CODE>Q0_157:Q1_187:Q2_916:Q3_319|Q0_570:Q1_539:Q2_169:Q3_724|Q0_184:Q1_1016:Q2_661:Q3_414|Q0_279:Q1_367:Q2_933:Q3_321|Q0_989:Q1_182:Q2_608:Q3_295|Q0_875:Q1_427:Q2_337:Q3_33|Q0_601:Q1_658:Q2_500:Q3_343|Q0_328:Q1_912:Q2_908:Q3_194|Q0_288:Q1_470:Q2_897:Q3_940|Q0_503:Q1_435:Q2_754:Q3_67|Q0_321:Q1_778:Q2_863:Q3_424|Q0_832:Q1_533:Q2_250:Q3_216|Q0_532:Q1_790:Q2_882:Q3_821|Q0_823:Q1_880:Q2_238:Q3_671|Q0_601:Q1_732:Q2_668:Q3_106|Q0_833:Q1_731:Q2_436:Q3_985</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0037' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 37
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0038':\n<ENT>Entity_0038</ENT> <CODE>Q0_338:Q1_569:Q2_754:Q3_425|Q0_989:Q1_311:Q2_520:Q3_1002|Q0_731:Q1_20:Q2_435:Q3_85|Q0_503:Q1_940:Q2_279:Q3_934|Q0_981:Q1_8:Q2_427:Q3_548|Q0_818:Q1_91:Q2_433:Q3_102|Q0_286:Q1_934:Q2_790:Q3_98|Q0_835:Q1_512:Q2_169:Q3_11|Q0_1005:Q1_579:Q2_350:Q3_310|Q0_286:Q1_109:Q2_776:Q3_39|Q0_542:Q1_518:Q2_372:Q3_921|Q0_319:Q1_873:Q2_882:Q3_1020|Q0_357:Q1_246:Q2_493:Q3_917|Q0_56:Q1_397:Q2_82:Q3_353|Q0_582:Q1_790:Q2_724:Q3_265|Q0_498:Q1_730:Q2_18:Q3_674</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0038' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 38
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0039':\n<ENT>Entity_0039</ENT> <CODE>Q0_286:Q1_41:Q2_549:Q3_959|Q0_872:Q1_722:Q2_152:Q3_642|Q0_497:Q1_462:Q2_812:Q3_727|Q0_460:Q1_222:Q2_979:Q3_642|Q0_375:Q1_687:Q2_326:Q3_152|Q0_703:Q1_792:Q2_779:Q3_334|Q0_570:Q1_152:Q2_941:Q3_514|Q0_738:Q1_56:Q2_689:Q3_136|Q0_690:Q1_798:Q2_250:Q3_312|Q0_929:Q1_148:Q2_793:Q3_85|Q0_481:Q1_731:Q2_437:Q3_698|Q0_364:Q1_287:Q2_125:Q3_141|Q0_141:Q1_132:Q2_59:Q3_130|Q0_1011:Q1_34:Q2_688:Q3_857|Q0_390:Q1_208:Q2_815:Q3_360|Q0_534:Q1_580:Q2_106:Q3_741</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0039' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 39
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0040':\n<ENT>Entity_0040</ENT> <CODE>Q0_2:Q1_448:Q2_551:Q3_649|Q0_750:Q1_462:Q2_657:Q3_487|Q0_736:Q1_321:Q2_988:Q3_553|Q0_257:Q1_417:Q2_310:Q3_700|Q0_260:Q1_110:Q2_733:Q3_6|Q0_406:Q1_603:Q2_341:Q3_955|Q0_775:Q1_722:Q2_493:Q3_705|Q0_932:Q1_349:Q2_972:Q3_54|Q0_296:Q1_91:Q2_729:Q3_384|Q0_126:Q1_764:Q2_882:Q3_113|Q0_486:Q1_703:Q2_256:Q3_742|Q0_878:Q1_787:Q2_791:Q3_222|Q0_191:Q1_234:Q2_988:Q3_700|Q0_302:Q1_420:Q2_133:Q3_86|Q0_353:Q1_424:Q2_309:Q3_538|Q0_465:Q1_588:Q2_976:Q3_643</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0040' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 40
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0041':\n<ENT>Entity_0041</ENT> <CODE>Q0_243:Q1_1017:Q2_146:Q3_137|Q0_577:Q1_683:Q2_674:Q3_137|Q0_308:Q1_245:Q2_884:Q3_952|Q0_56:Q1_770:Q2_10:Q3_387|Q0_554:Q1_919:Q2_503:Q3_245|Q0_308:Q1_104:Q2_401:Q3_12|Q0_111:Q1_138:Q2_91:Q3_546|Q0_372:Q1_431:Q2_169:Q3_128|Q0_79:Q1_141:Q2_834:Q3_658|Q0_823:Q1_296:Q2_572:Q3_399|Q0_960:Q1_836:Q2_510:Q3_878|Q0_461:Q1_720:Q2_100:Q3_610|Q0_385:Q1_75:Q2_315:Q3_483|Q0_1015:Q1_964:Q2_373:Q3_785|Q0_312:Q1_852:Q2_1014:Q3_565|Q0_1014:Q1_372:Q2_630:Q3_940</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0041' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 41
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0042':\n<ENT>Entity_0042</ENT> <CODE>Q0_530:Q1_926:Q2_547:Q3_901|Q0_926:Q1_446:Q2_561:Q3_178|Q0_750:Q1_597:Q2_904:Q3_19|Q0_824:Q1_655:Q2_920:Q3_505|Q0_832:Q1_381:Q2_527:Q3_616|Q0_589:Q1_186:Q2_888:Q3_29|Q0_449:Q1_458:Q2_237:Q3_882|Q0_14:Q1_731:Q2_602:Q3_640|Q0_420:Q1_642:Q2_920:Q3_11|Q0_458:Q1_113:Q2_841:Q3_575|Q0_53:Q1_758:Q2_932:Q3_227|Q0_214:Q1_920:Q2_772:Q3_692|Q0_890:Q1_900:Q2_161:Q3_596|Q0_246:Q1_939:Q2_947:Q3_891|Q0_612:Q1_691:Q2_972:Q3_169|Q0_465:Q1_701:Q2_964:Q3_914</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0042' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 42
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0043':\n<ENT>Entity_0043</ENT> <CODE>Q0_366:Q1_93:Q2_774:Q3_553|Q0_505:Q1_112:Q2_394:Q3_662|Q0_300:Q1_430:Q2_434:Q3_141|Q0_793:Q1_741:Q2_551:Q3_631|Q0_225:Q1_600:Q2_758:Q3_310|Q0_139:Q1_381:Q2_841:Q3_190|Q0_61:Q1_111:Q2_165:Q3_611|Q0_995:Q1_679:Q2_675:Q3_461|Q0_973:Q1_687:Q2_685:Q3_681|Q0_861:Q1_940:Q2_968:Q3_681|Q0_425:Q1_429:Q2_754:Q3_158|Q0_696:Q1_462:Q2_563:Q3_821|Q0_205:Q1_335:Q2_927:Q3_404|Q0_680:Q1_253:Q2_249:Q3_702|Q0_345:Q1_900:Q2_54:Q3_430|Q0_775:Q1_417:Q2_238:Q3_304</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0043' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 43
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0044':\n<ENT>Entity_0044</ENT> <CODE>Q0_538:Q1_501:Q2_510:Q3_483|Q0_999:Q1_818:Q2_980:Q3_243|Q0_614:Q1_425:Q2_885:Q3_549|Q0_880:Q1_268:Q2_534:Q3_631|Q0_393:Q1_920:Q2_481:Q3_284|Q0_289:Q1_252:Q2_308:Q3_778|Q0_503:Q1_778:Q2_62:Q3_716|Q0_254:Q1_301:Q2_563:Q3_657|Q0_361:Q1_643:Q2_754:Q3_759|Q0_460:Q1_579:Q2_479:Q3_718|Q0_146:Q1_398:Q2_820:Q3_136|Q0_167:Q1_230:Q2_315:Q3_901|Q0_72:Q1_780:Q2_1006:Q3_831|Q0_1002:Q1_713:Q2_400:Q3_319|Q0_929:Q1_599:Q2_758:Q3_116|Q0_530:Q1_561:Q2_67:Q3_636</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0044' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 44
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0045':\n<ENT>Entity_0045</ENT> <CODE>Q0_454:Q1_655:Q2_78:Q3_727|Q0_343:Q1_50:Q2_547:Q3_1010|Q0_256:Q1_194:Q2_1004:Q3_238|Q0_661:Q1_119:Q2_297:Q3_878|Q0_730:Q1_549:Q2_525:Q3_418|Q0_862:Q1_655:Q2_875:Q3_205|Q0_668:Q1_370:Q2_279:Q3_853|Q0_598:Q1_101:Q2_911:Q3_241|Q0_653:Q1_903:Q2_487:Q3_31|Q0_510:Q1_470:Q2_722:Q3_12|Q0_919:Q1_658:Q2_223:Q3_727|Q0_261:Q1_949:Q2_513:Q3_329|Q0_616:Q1_287:Q2_499:Q3_674|Q0_738:Q1_561:Q2_190:Q3_357|Q0_302:Q1_980:Q2_905:Q3_169|Q0_922:Q1_752:Q2_31:Q3_857</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0045' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 45
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0046':\n<ENT>Entity_0046</ENT> <CODE>Q0_319:Q1_719:Q2_758:Q3_63|Q0_169:Q1_751:Q2_303:Q3_445|Q0_518:Q1_849:Q2_333:Q3_67|Q0_1011:Q1_481:Q2_363:Q3_898|Q0_503:Q1_751:Q2_61:Q3_364|Q0_880:Q1_499:Q2_745:Q3_55|Q0_444:Q1_622:Q2_948:Q3_214|Q0_695:Q1_60:Q2_454:Q3_669|Q0_919:Q1_397:Q2_237:Q3_347|Q0_494:Q1_790:Q2_595:Q3_546|Q0_490:Q1_648:Q2_915:Q3_735|Q0_851:Q1_970:Q2_769:Q3_251|Q0_890:Q1_33:Q2_189:Q3_147|Q0_343:Q1_486:Q2_132:Q3_244|Q0_755:Q1_804:Q2_884:Q3_793|Q0_191:Q1_427:Q2_656:Q3_1002</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0046' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 46
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0047':\n<ENT>Entity_0047</ENT> <CODE>Q0_518:Q1_861:Q2_744:Q3_242|Q0_730:Q1_817:Q2_421:Q3_403|Q0_924:Q1_111:Q2_867:Q3_891|Q0_832:Q1_672:Q2_1014:Q3_686|Q0_647:Q1_549:Q2_372:Q3_764|Q0_260:Q1_755:Q2_214:Q3_494|Q0_809:Q1_874:Q2_982:Q3_757|Q0_772:Q1_1020:Q2_899:Q3_307|Q0_283:Q1_558:Q2_401:Q3_978|Q0_261:Q1_187:Q2_469:Q3_196|Q0_204:Q1_673:Q2_59:Q3_791|Q0_504:Q1_685:Q2_681:Q3_70|Q0_322:Q1_724:Q2_485:Q3_427|Q0_52:Q1_459:Q2_152:Q3_658|Q0_244:Q1_419:Q2_378:Q3_599|Q0_772:Q1_764:Q2_899:Q3_138</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0047' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 47
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0048':\n<ENT>Entity_0048</ENT> <CODE>Q0_340:Q1_580:Q2_82:Q3_280|Q0_979:Q1_701:Q2_18:Q3_663|Q0_866:Q1_287:Q2_549:Q3_16|Q0_320:Q1_888:Q2_43:Q3_947|Q0_129:Q1_658:Q2_342:Q3_489|Q0_872:Q1_980:Q2_319:Q3_783|Q0_432:Q1_685:Q2_564:Q3_51|Q0_225:Q1_723:Q2_535:Q3_934|Q0_575:Q1_75:Q2_704:Q3_640|Q0_285:Q1_533:Q2_335:Q3_294|Q0_413:Q1_110:Q2_722:Q3_535|Q0_68:Q1_864:Q2_755:Q3_934|Q0_72:Q1_187:Q2_696:Q3_551|Q0_964:Q1_951:Q2_909:Q3_689|Q0_195:Q1_284:Q2_629:Q3_300|Q0_375:Q1_357:Q2_933:Q3_634</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0048' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 48
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0049':\n<ENT>Entity_0049</ENT> <CODE>Q0_992:Q1_8:Q2_196:Q3_861|Q0_685:Q1_308:Q2_889:Q3_786|Q0_816:Q1_903:Q2_109:Q3_98|Q0_778:Q1_544:Q2_259:Q3_114|Q0_931:Q1_501:Q2_215:Q3_568|Q0_538:Q1_129:Q2_510:Q3_561|Q0_132:Q1_203:Q2_700:Q3_111|Q0_500:Q1_370:Q2_792:Q3_803|Q0_43:Q1_637:Q2_83:Q3_657|Q0_377:Q1_298:Q2_62:Q3_681|Q0_755:Q1_432:Q2_722:Q3_697|Q0_824:Q1_722:Q2_160:Q3_299|Q0_563:Q1_966:Q2_328:Q3_323|Q0_275:Q1_811:Q2_368:Q3_783|Q0_748:Q1_120:Q2_497:Q3_508|Q0_88:Q1_285:Q2_237:Q3_781</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0049' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 49
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0050':\n<ENT>Entity_0050</ENT> <CODE>Q0_650:Q1_944:Q2_83:Q3_535|Q0_261:Q1_74:Q2_964:Q3_47|Q0_79:Q1_823:Q2_696:Q3_853|Q0_117:Q1_599:Q2_12:Q3_600|Q0_56:Q1_269:Q2_357:Q3_508|Q0_575:Q1_124:Q2_12:Q3_155|Q0_736:Q1_78:Q2_789:Q3_471|Q0_658:Q1_284:Q2_247:Q3_196|Q0_906:Q1_679:Q2_684:Q3_822|Q0_210:Q1_723:Q2_422:Q3_715|Q0_494:Q1_126:Q2_152:Q3_48|Q0_523:Q1_6:Q2_83:Q3_691|Q0_30:Q1_682:Q2_529:Q3_824|Q0_302:Q1_321:Q2_1020:Q3_359|Q0_382:Q1_177:Q2_1011:Q3_777|Q0_183:Q1_791:Q2_328:Q3_540</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0050' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 50
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0051':\n<ENT>Entity_0051</ENT> <CODE>Q0_761:Q1_600:Q2_373:Q3_6|Q0_256:Q1_55:Q2_334:Q3_170|Q0_538:Q1_825:Q2_209:Q3_720|Q0_68:Q1_41:Q2_945:Q3_739|Q0_19:Q1_104:Q2_389:Q3_363|Q0_598:Q1_304:Q2_586:Q3_914|Q0_545:Q1_650:Q2_925:Q3_451|Q0_113:Q1_872:Q2_217:Q3_545|Q0_225:Q1_306:Q2_549:Q3_887|Q0_776:Q1_757:Q2_290:Q3_987|Q0_177:Q1_594:Q2_0:Q3_307|Q0_130:Q1_690:Q2_857:Q3_852|Q0_497:Q1_1010:Q2_943:Q3_27|Q0_395:Q1_495:Q2_940:Q3_565|Q0_72:Q1_364:Q2_225:Q3_575|Q0_990:Q1_559:Q2_74:Q3_877</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0051' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 51
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0052':\n<ENT>Entity_0052</ENT> <CODE>Q0_509:Q1_721:Q2_717:Q3_486|Q0_81:Q1_976:Q2_100:Q3_93|Q0_68:Q1_896:Q2_186:Q3_663|Q0_754:Q1_831:Q2_305:Q3_977|Q0_932:Q1_482:Q2_460:Q3_553|Q0_808:Q1_731:Q2_179:Q3_946|Q0_229:Q1_124:Q2_943:Q3_657|Q0_997:Q1_731:Q2_285:Q3_230|Q0_35:Q1_1017:Q2_196:Q3_16|Q0_403:Q1_797:Q2_858:Q3_458|Q0_460:Q1_939:Q2_584:Q3_972|Q0_824:Q1_354:Q2_877:Q3_861|Q0_667:Q1_710:Q2_191:Q3_814|Q0_215:Q1_650:Q2_463:Q3_253|Q0_656:Q1_635:Q2_759:Q3_190|Q0_27:Q1_975:Q2_416:Q3_681</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0052' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 52
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0053':\n<ENT>Entity_0053</ENT> <CODE>Q0_1017:Q1_61:Q2_748:Q3_155|Q0_110:Q1_228:Q2_373:Q3_189|Q0_454:Q1_588:Q2_900:Q3_221|Q0_176:Q1_863:Q2_400:Q3_715|Q0_456:Q1_330:Q2_281:Q3_508|Q0_6:Q1_700:Q2_442:Q3_534|Q0_748:Q1_679:Q2_243:Q3_332|Q0_157:Q1_408:Q2_487:Q3_692|Q0_668:Q1_902:Q2_142:Q3_589|Q0_88:Q1_287:Q2_411:Q3_142|Q0_405:Q1_788:Q2_314:Q3_366|Q0_611:Q1_588:Q2_997:Q3_894|Q0_823:Q1_614:Q2_259:Q3_96|Q0_100:Q1_56:Q2_776:Q3_203|Q0_390:Q1_881:Q2_68:Q3_163|Q0_42:Q1_139:Q2_696:Q3_642</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0053' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 53
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0054':\n<ENT>Entity_0054</ENT> <CODE>Q0_384:Q1_56:Q2_237:Q3_152|Q0_823:Q1_214:Q2_65:Q3_55|Q0_834:Q1_731:Q2_104:Q3_824|Q0_436:Q1_432:Q2_526:Q3_415|Q0_270:Q1_648:Q2_639:Q3_819|Q0_643:Q1_638:Q2_811:Q3_383|Q0_124:Q1_599:Q2_427:Q3_260|Q0_938:Q1_295:Q2_1010:Q3_304|Q0_642:Q1_889:Q2_752:Q3_692|Q0_489:Q1_638:Q2_93:Q3_495|Q0_754:Q1_994:Q2_866:Q3_887|Q0_784:Q1_173:Q2_789:Q3_52|Q0_420:Q1_896:Q2_564:Q3_567|Q0_878:Q1_941:Q2_11:Q3_189|Q0_539:Q1_995:Q2_118:Q3_687|Q0_47:Q1_414:Q2_32:Q3_793</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0054' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 54
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0055':\n<ENT>Entity_0055</ENT> <CODE>Q0_475:Q1_120:Q2_659:Q3_603|Q0_403:Q1_497:Q2_659:Q3_214|Q0_47:Q1_34:Q2_856:Q3_147|Q0_968:Q1_148:Q2_191:Q3_719|Q0_154:Q1_625:Q2_443:Q3_156|Q0_602:Q1_690:Q2_62:Q3_507|Q0_1017:Q1_45:Q2_544:Q3_458|Q0_1017:Q1_731:Q2_56:Q3_445|Q0_151:Q1_457:Q2_701:Q3_557|Q0_171:Q1_367:Q2_674:Q3_999|Q0_986:Q1_867:Q2_737:Q3_251|Q0_19:Q1_857:Q2_875:Q3_615|Q0_464:Q1_965:Q2_189:Q3_508|Q0_931:Q1_448:Q2_342:Q3_425|Q0_523:Q1_696:Q2_146:Q3_738|Q0_205:Q1_726:Q2_12:Q3_42</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0055' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 55
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0056':\n<ENT>Entity_0056</ENT> <CODE>Q0_731:Q1_964:Q2_268:Q3_934|Q0_465:Q1_310:Q2_984:Q3_783|Q0_364:Q1_881:Q2_341:Q3_374|Q0_272:Q1_152:Q2_315:Q3_12|Q0_403:Q1_888:Q2_326:Q3_794|Q0_274:Q1_1002:Q2_613:Q3_939|Q0_390:Q1_580:Q2_195:Q3_237|Q0_847:Q1_900:Q2_845:Q3_603|Q0_204:Q1_287:Q2_736:Q3_380|Q0_498:Q1_920:Q2_935:Q3_182|Q0_451:Q1_141:Q2_510:Q3_338|Q0_343:Q1_165:Q2_411:Q3_759|Q0_170:Q1_652:Q2_574:Q3_468|Q0_193:Q1_101:Q2_384:Q3_651|Q0_634:Q1_921:Q2_928:Q3_141|Q0_204:Q1_796:Q2_882:Q3_582</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0056' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 56
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0057':\n<ENT>Entity_0057</ENT> <CODE>Q0_719:Q1_956:Q2_500:Q3_705|Q0_878:Q1_691:Q2_13:Q3_804|Q0_1015:Q1_694:Q2_401:Q3_237|Q0_297:Q1_458:Q2_83:Q3_321|Q0_443:Q1_80:Q2_981:Q3_649|Q0_994:Q1_220:Q2_845:Q3_117|Q0_939:Q1_504:Q2_440:Q3_245|Q0_329:Q1_638:Q2_1021:Q3_170|Q0_287:Q1_459:Q2_31:Q3_636|Q0_850:Q1_938:Q2_446:Q3_577|Q0_243:Q1_826:Q2_724:Q3_52|Q0_441:Q1_812:Q2_935:Q3_240|Q0_296:Q1_582:Q2_315:Q3_835|Q0_679:Q1_134:Q2_207:Q3_859|Q0_129:Q1_667:Q2_0:Q3_18|Q0_59:Q1_964:Q2_89:Q3_286</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0057' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 57
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0058':\n<ENT>Entity_0058</ENT> <CODE>Q0_539:Q1_48:Q2_736:Q3_535|Q0_245:Q1_57:Q2_877:Q3_629|Q0_372:Q1_875:Q2_446:Q3_553|Q0_495:Q1_200:Q2_634:Q3_950|Q0_916:Q1_61:Q2_670:Q3_572|Q0_181:Q1_667:Q2_400:Q3_342|Q0_963:Q1_494:Q2_950:Q3_231|Q0_958:Q1_953:Q2_435:Q3_715|Q0_225:Q1_311:Q2_432:Q3_225|Q0_995:Q1_293:Q2_166:Q3_260|Q0_666:Q1_774:Q2_574:Q3_972|Q0_663:Q1_446:Q2_442:Q3_16|Q0_765:Q1_147:Q2_209:Q3_88|Q0_758:Q1_504:Q2_325:Q3_735|Q0_231:Q1_4:Q2_163:Q3_817|Q0_611:Q1_710:Q2_191:Q3_948</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0058' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 58
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0059':\n<ENT>Entity_0059</ENT> <CODE>Q0_286:Q1_361:Q2_624:Q3_948|Q0_736:Q1_222:Q2_585:Q3_222|Q0_755:Q1_730:Q2_384:Q3_237|Q0_542:Q1_683:Q2_659:Q3_359|Q0_238:Q1_568:Q2_285:Q3_803|Q0_315:Q1_454:Q2_333:Q3_604|Q0_616:Q1_6:Q2_723:Q3_757|Q0_906:Q1_952:Q2_994:Q3_114|Q0_243:Q1_863:Q2_400:Q3_16|Q0_798:Q1_458:Q2_534:Q3_159|Q0_343:Q1_833:Q2_132:Q3_904|Q0_246:Q1_177:Q2_51:Q3_466|Q0_345:Q1_688:Q2_1022:Q3_758|Q0_878:Q1_943:Q2_821:Q3_803|Q0_385:Q1_591:Q2_32:Q3_687|Q0_913:Q1_589:Q2_418:Q3_86</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0059' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 59
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0060':\n<ENT>Entity_0060</ENT> <CODE>Q0_650:Q1_646:Q2_326:Q3_43|Q0_497:Q1_27:Q2_103:Q3_623|Q0_365:Q1_622:Q2_106:Q3_444|Q0_276:Q1_411:Q2_65:Q3_971|Q0_72:Q1_214:Q2_373:Q3_735|Q0_986:Q1_752:Q2_400:Q3_732|Q0_370:Q1_127:Q2_798:Q3_851|Q0_398:Q1_557:Q2_701:Q3_360|Q0_730:Q1_149:Q2_282:Q3_387|Q0_986:Q1_614:Q2_62:Q3_708|Q0_994:Q1_646:Q2_642:Q3_159|Q0_413:Q1_370:Q2_400:Q3_445|Q0_67:Q1_635:Q2_864:Q3_691|Q0_875:Q1_757:Q2_7:Q3_640|Q0_81:Q1_777:Q2_489:Q3_822|Q0_1021:Q1_442:Q2_274:Q3_321</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0060' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 60
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0061':\n<ENT>Entity_0061</ENT> <CODE>Q0_370:Q1_495:Q2_670:Q3_940|Q0_215:Q1_905:Q2_793:Q3_483|Q0_794:Q1_999:Q2_397:Q3_486|Q0_475:Q1_329:Q2_437:Q3_334|Q0_54:Q1_678:Q2_925:Q3_364|Q0_124:Q1_123:Q2_277:Q3_727|Q0_614:Q1_505:Q2_515:Q3_402|Q0_505:Q1_115:Q2_68:Q3_441|Q0_59:Q1_301:Q2_0:Q3_615|Q0_267:Q1_619:Q2_324:Q3_623|Q0_192:Q1_266:Q2_951:Q3_151|Q0_147:Q1_549:Q2_586:Q3_59|Q0_609:Q1_995:Q2_574:Q3_19|Q0_75:Q1_730:Q2_104:Q3_141|Q0_47:Q1_994:Q2_82:Q3_487|Q0_103:Q1_432:Q2_925:Q3_320</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0061' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 61
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0062':\n<ENT>Entity_0062</ENT> <CODE>Q0_668:Q1_635:Q2_91:Q3_666|Q0_46:Q1_182:Q2_906:Q3_526|Q0_419:Q1_976:Q2_125:Q3_386|Q0_820:Q1_667:Q2_954:Q3_756|Q0_300:Q1_537:Q2_400:Q3_169|Q0_439:Q1_752:Q2_620:Q3_565|Q0_569:Q1_687:Q2_747:Q3_243|Q0_714:Q1_238:Q2_344:Q3_495|Q0_547:Q1_152:Q2_299:Q3_681|Q0_1023:Q1_293:Q2_211:Q3_402|Q0_805:Q1_975:Q2_798:Q3_166|Q0_750:Q1_700:Q2_460:Q3_418|Q0_946:Q1_622:Q2_798:Q3_688|Q0_748:Q1_642:Q2_12:Q3_650|Q0_393:Q1_129:Q2_571:Q3_63|Q0_668:Q1_306:Q2_161:Q3_155</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0062' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 62
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0063':\n<ENT>Entity_0063</ENT> <CODE>Q0_736:Q1_325:Q2_127:Q3_38|Q0_679:Q1_537:Q2_814:Q3_550|Q0_289:Q1_112:Q2_243:Q3_633|Q0_880:Q1_442:Q2_100:Q3_514|Q0_1010:Q1_127:Q2_373:Q3_649|Q0_214:Q1_4:Q2_127:Q3_990|Q0_949:Q1_56:Q2_469:Q3_972|Q0_983:Q1_801:Q2_341:Q3_656|Q0_372:Q1_790:Q2_915:Q3_374|Q0_461:Q1_888:Q2_503:Q3_359|Q0_795:Q1_496:Q2_88:Q3_741|Q0_147:Q1_193:Q2_358:Q3_767|Q0_441:Q1_123:Q2_318:Q3_839|Q0_413:Q1_419:Q2_869:Q3_67|Q0_103:Q1_1019:Q2_0:Q3_336|Q0_661:Q1_770:Q2_441:Q3_854</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0063' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 63
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0064':\n<ENT>Entity_0064</ENT> <CODE>Q0_296:Q1_184:Q2_565:Q3_723|Q0_486:Q1_967:Q2_306:Q3_801|Q0_892:Q1_913:Q2_664:Q3_229|Q0_839:Q1_427:Q2_415:Q3_70|Q0_990:Q1_689:Q2_125:Q3_708|Q0_1014:Q1_549:Q2_366:Q3_579|Q0_791:Q1_557:Q2_156:Q3_338|Q0_403:Q1_806:Q2_553:Q3_613|Q0_256:Q1_738:Q2_882:Q3_116|Q0_336:Q1_956:Q2_405:Q3_691|Q0_334:Q1_777:Q2_229:Q3_69|Q0_874:Q1_501:Q2_84:Q3_483|Q0_460:Q1_1020:Q2_932:Q3_656|Q0_880:Q1_625:Q2_650:Q3_414|Q0_372:Q1_867:Q2_299:Q3_273|Q0_303:Q1_417:Q2_428:Q3_143</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0064' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 64
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0065':\n<ENT>Entity_0065</ENT> <CODE>Q0_329:Q1_964:Q2_904:Q3_22|Q0_653:Q1_21:Q2_411:Q3_222|Q0_371:Q1_622:Q2_339:Q3_571|Q0_818:Q1_897:Q2_88:Q3_273|Q0_277:Q1_315:Q2_373:Q3_975|Q0_75:Q1_289:Q2_129:Q3_459|Q0_456:Q1_152:Q2_31:Q3_292|Q0_113:Q1_8:Q2_1005:Q3_1002|Q0_586:Q1_610:Q2_609:Q3_102|Q0_730:Q1_129:Q2_153:Q3_227|Q0_650:Q1_764:Q2_335:Q3_143|Q0_256:Q1_341:Q2_624:Q3_52|Q0_709:Q1_725:Q2_967:Q3_150|Q0_460:Q1_329:Q2_152:Q3_258|Q0_441:Q1_157:Q2_309:Q3_210|Q0_924:Q1_850:Q2_46:Q3_822</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0065' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 65
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0066':\n<ENT>Entity_0066</ENT> <CODE>Q0_126:Q1_80:Q2_576:Q3_689|Q0_854:Q1_172:Q2_755:Q3_887|Q0_276:Q1_659:Q2_557:Q3_102|Q0_732:Q1_777:Q2_405:Q3_204|Q0_169:Q1_863:Q2_510:Q3_748|Q0_997:Q1_536:Q2_83:Q3_990|Q0_215:Q1_1022:Q2_793:Q3_141|Q0_986:Q1_61:Q2_49:Q3_33|Q0_652:Q1_45:Q2_34:Q3_304|Q0_989:Q1_266:Q2_412:Q3_697|Q0_456:Q1_399:Q2_344:Q3_500|Q0_765:Q1_635:Q2_334:Q3_163|Q0_334:Q1_797:Q2_654:Q3_141|Q0_668:Q1_306:Q2_1005:Q3_817|Q0_761:Q1_870:Q2_59:Q3_51|Q0_129:Q1_343:Q2_929:Q3_316</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0066' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 66
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0067':\n<ENT>Entity_0067</ENT> <CODE>Q0_454:Q1_49:Q2_866:Q3_16|Q0_371:Q1_255:Q2_138:Q3_700|Q0_27:Q1_648:Q2_789:Q3_697|Q0_162:Q1_226:Q2_229:Q3_383|Q0_486:Q1_995:Q2_7:Q3_16|Q0_885:Q1_1004:Q2_441:Q3_658|Q0_130:Q1_835:Q2_342:Q3_70|Q0_696:Q1_53:Q2_572:Q3_925|Q0_3:Q1_750:Q2_539:Q3_539|Q0_968:Q1_457:Q2_533:Q3_478|Q0_619:Q1_334:Q2_1014:Q3_741|Q0_365:Q1_357:Q2_415:Q3_853|Q0_523:Q1_427:Q2_257:Q3_111|Q0_433:Q1_101:Q2_856:Q3_702|Q0_313:Q1_325:Q2_884:Q3_697|Q0_126:Q1_564:Q2_852:Q3_968</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0067' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 67
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0068':\n<ENT>Entity_0068</ENT> <CODE>Q0_463:Q1_903:Q2_342:Q3_366|Q0_368:Q1_12:Q2_163:Q3_771|Q0_878:Q1_270:Q2_333:Q3_180|Q0_904:Q1_333:Q2_642:Q3_610|Q0_231:Q1_450:Q2_315:Q3_537|Q0_448:Q1_685:Q2_59:Q3_169|Q0_473:Q1_234:Q2_499:Q3_882|Q0_866:Q1_44:Q2_533:Q3_143|Q0_784:Q1_588:Q2_988:Q3_952|Q0_824:Q1_647:Q2_396:Q3_524|Q0_1015:Q1_463:Q2_459:Q3_727|Q0_582:Q1_740:Q2_163:Q3_839|Q0_963:Q1_330:Q2_950:Q3_914|Q0_385:Q1_735:Q2_475:Q3_105|Q0_111:Q1_289:Q2_344:Q3_198|Q0_937:Q1_445:Q2_779:Q3_831</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0068' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 68
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0069':\n<ENT>Entity_0069</ENT> <CODE>Q0_919:Q1_8:Q2_88:Q3_858|Q0_52:Q1_622:Q2_767:Q3_463|Q0_924:Q1_739:Q2_3:Q3_260|Q0_946:Q1_558:Q2_299:Q3_403|Q0_575:Q1_934:Q2_520:Q3_138|Q0_39:Q1_354:Q2_463:Q3_640|Q0_889:Q1_499:Q2_400:Q3_886|Q0_503:Q1_230:Q2_681:Q3_455|Q0_385:Q1_147:Q2_163:Q3_508|Q0_747:Q1_563:Q2_938:Q3_117|Q0_719:Q1_994:Q2_905:Q3_28|Q0_880:Q1_141:Q2_675:Q3_484|Q0_326:Q1_701:Q2_779:Q3_116|Q0_839:Q1_411:Q2_1014:Q3_361|Q0_652:Q1_101:Q2_565:Q3_681|Q0_11:Q1_824:Q2_293:Q3_194</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0069' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 69
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0070':\n<ENT>Entity_0070</ENT> <CODE>Q0_695:Q1_733:Q2_712:Q3_367|Q0_747:Q1_734:Q2_915:Q3_483|Q0_705:Q1_687:Q2_520:Q3_872|Q0_815:Q1_45:Q2_729:Q3_930|Q0_320:Q1_80:Q2_453:Q3_577|Q0_589:Q1_912:Q2_779:Q3_507|Q0_68:Q1_182:Q2_114:Q3_613|Q0_507:Q1_397:Q2_731:Q3_15|Q0_946:Q1_194:Q2_357:Q3_222|Q0_874:Q1_188:Q2_964:Q3_60|Q0_538:Q1_720:Q2_373:Q3_78|Q0_812:Q1_673:Q2_348:Q3_989|Q0_129:Q1_417:Q2_137:Q3_982|Q0_755:Q1_269:Q2_279:Q3_268|Q0_886:Q1_492:Q2_878:Q3_453|Q0_712:Q1_495:Q2_515:Q3_100</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0070' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 70
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0071':\n<ENT>Entity_0071</ENT> <CODE>Q0_611:Q1_352:Q2_994:Q3_215|Q0_460:Q1_335:Q2_237:Q3_533|Q0_679:Q1_943:Q2_290:Q3_67|Q0_494:Q1_551:Q2_587:Q3_466|Q0_878:Q1_694:Q2_711:Q3_194|Q0_258:Q1_141:Q2_574:Q3_80|Q0_67:Q1_1017:Q2_914:Q3_757|Q0_793:Q1_511:Q2_812:Q3_606|Q0_748:Q1_459:Q2_499:Q3_440|Q0_236:Q1_190:Q2_925:Q3_975|Q0_989:Q1_52:Q2_697:Q3_746|Q0_324:Q1_333:Q2_839:Q3_821|Q0_919:Q1_401:Q2_992:Q3_305|Q0_85:Q1_194:Q2_482:Q3_141|Q0_176:Q1_8:Q2_118:Q3_1020|Q0_108:Q1_178:Q2_569:Q3_359</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0071' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 71
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0072':\n<ENT>Entity_0072</ENT> <CODE>Q0_563:Q1_519:Q2_140:Q3_16|Q0_563:Q1_265:Q2_378:Q3_427|Q0_997:Q1_55:Q2_256:Q3_230|Q0_607:Q1_862:Q2_419:Q3_507|Q0_172:Q1_740:Q2_915:Q3_433|Q0_162:Q1_818:Q2_18:Q3_922|Q0_320:Q1_562:Q2_338:Q3_31|Q0_668:Q1_104:Q2_701:Q3_746|Q0_631:Q1_589:Q2_29:Q3_307|Q0_372:Q1_559:Q2_632:Q3_651|Q0_327:Q1_776:Q2_992:Q3_803|Q0_317:Q1_534:Q2_488:Q3_700|Q0_898:Q1_257:Q2_943:Q3_552|Q0_375:Q1_975:Q2_384:Q3_745|Q0_695:Q1_52:Q2_987:Q3_461|Q0_946:Q1_184:Q2_818:Q3_611</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0072' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 72
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0073':\n<ENT>Entity_0073</ENT> <CODE>Q0_825:Q1_624:Q2_585:Q3_67|Q0_784:Q1_862:Q2_789:Q3_224|Q0_303:Q1_796:Q2_78:Q3_600|Q0_256:Q1_882:Q2_510:Q3_407|Q0_996:Q1_524:Q2_691:Q3_859|Q0_356:Q1_101:Q2_93:Q3_510|Q0_370:Q1_419:Q2_912:Q3_258|Q0_843:Q1_614:Q2_689:Q3_169|Q0_254:Q1_849:Q2_689:Q3_4|Q0_419:Q1_1010:Q2_63:Q3_649|Q0_126:Q1_176:Q2_872:Q3_993|Q0_27:Q1_296:Q2_229:Q3_353|Q0_732:Q1_687:Q2_884:Q3_662|Q0_184:Q1_127:Q2_29:Q3_364|Q0_508:Q1_1016:Q2_524:Q3_692|Q0_436:Q1_989:Q2_974:Q3_882</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0073' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 73
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0074':\n<ENT>Entity_0074</ENT> <CODE>Q0_820:Q1_959:Q2_962:Q3_310|Q0_990:Q1_100:Q2_912:Q3_814|Q0_161:Q1_956:Q2_56:Q3_350|Q0_147:Q1_1002:Q2_13:Q3_38|Q0_204:Q1_200:Q2_549:Q3_885|Q0_590:Q1_870:Q2_49:Q3_914|Q0_124:Q1_398:Q2_114:Q3_323|Q0_979:Q1_648:Q2_286:Q3_466|Q0_908:Q1_188:Q2_733:Q3_23|Q0_589:Q1_18:Q2_1020:Q3_557|Q0_979:Q1_143:Q2_884:Q3_982|Q0_460:Q1_325:Q2_99:Q3_572|Q0_353:Q1_1015:Q2_257:Q3_364|Q0_459:Q1_79:Q2_427:Q3_642|Q0_286:Q1_214:Q2_596:Q3_74|Q0_966:Q1_530:Q2_769:Q3_767</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0074' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 74
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0075':\n<ENT>Entity_0075</ENT> <CODE>Q0_655:Q1_492:Q2_539:Q3_466|Q0_510:Q1_61:Q2_100:Q3_638|Q0_757:Q1_1003:Q2_549:Q3_403|Q0_968:Q1_673:Q2_533:Q3_5|Q0_360:Q1_611:Q2_68:Q3_658|Q0_831:Q1_729:Q2_230:Q3_584|Q0_154:Q1_757:Q2_691:Q3_535|Q0_542:Q1_223:Q2_972:Q3_443|Q0_462:Q1_448:Q2_872:Q3_278|Q0_779:Q1_82:Q2_613:Q3_791|Q0_237:Q1_591:Q2_54:Q3_392|Q0_876:Q1_580:Q2_71:Q3_38|Q0_488:Q1_750:Q2_845:Q3_346|Q0_730:Q1_148:Q2_59:Q3_326|Q0_653:Q1_414:Q2_619:Q3_642|Q0_279:Q1_880:Q2_920:Q3_797</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0075' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 75
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0076':\n<ENT>Entity_0076</ENT> <CODE>Q0_920:Q1_255:Q2_540:Q3_933|Q0_679:Q1_34:Q2_712:Q3_796|Q0_378:Q1_767:Q2_476:Q3_981|Q0_260:Q1_905:Q2_581:Q3_820|Q0_518:Q1_472:Q2_622:Q3_775|Q0_832:Q1_469:Q2_821:Q3_493|Q0_989:Q1_502:Q2_232:Q3_313|Q0_380:Q1_222:Q2_968:Q3_143|Q0_390:Q1_230:Q2_984:Q3_982|Q0_679:Q1_888:Q2_500:Q3_320|Q0_236:Q1_360:Q2_428:Q3_191|Q0_823:Q1_734:Q2_165:Q3_638|Q0_486:Q1_87:Q2_322:Q3_360|Q0_704:Q1_825:Q2_1004:Q3_320|Q0_95:Q1_329:Q2_533:Q3_143|Q0_875:Q1_221:Q2_688:Q3_51</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0076' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 76
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0077':\n<ENT>Entity_0077</ENT> <CODE>Q0_172:Q1_966:Q2_996:Q3_495|Q0_88:Q1_505:Q2_85:Q3_681|Q0_29:Q1_397:Q2_290:Q3_539|Q0_486:Q1_172:Q2_557:Q3_374|Q0_313:Q1_615:Q2_98:Q3_280|Q0_658:Q1_335:Q2_389:Q3_803|Q0_968:Q1_651:Q2_100:Q3_934|Q0_1014:Q1_776:Q2_705:Q3_934|Q0_225:Q1_1010:Q2_372:Q3_41|Q0_763:Q1_1022:Q2_1009:Q3_606|Q0_377:Q1_722:Q2_650:Q3_222|Q0_563:Q1_687:Q2_165:Q3_934|Q0_393:Q1_269:Q2_571:Q3_774|Q0_964:Q1_544:Q2_1023:Q3_1006|Q0_72:Q1_568:Q2_62:Q3_548|Q0_734:Q1_889:Q2_574:Q3_251</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0077' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 77
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0078':\n<ENT>Entity_0078</ENT> <CODE>Q0_68:Q1_791:Q2_629:Q3_872|Q0_968:Q1_684:Q2_458:Q3_710|Q0_226:Q1_899:Q2_940:Q3_413|Q0_444:Q1_83:Q2_915:Q3_916|Q0_184:Q1_555:Q2_341:Q3_296|Q0_748:Q1_995:Q2_861:Q3_958|Q0_1015:Q1_682:Q2_452:Q3_922|Q0_578:Q1_559:Q2_643:Q3_859|Q0_717:Q1_497:Q2_524:Q3_371|Q0_529:Q1_923:Q2_400:Q3_773|Q0_539:Q1_87:Q2_216:Q3_628|Q0_210:Q1_79:Q2_830:Q3_952|Q0_779:Q1_101:Q2_814:Q3_169|Q0_322:Q1_445:Q2_0:Q3_493|Q0_500:Q1_603:Q2_179:Q3_404|Q0_820:Q1_873:Q2_418:Q3_151</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0078' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 78
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0079':\n<ENT>Entity_0079</ENT> <CODE>Q0_703:Q1_448:Q2_704:Q3_155|Q0_875:Q1_898:Q2_844:Q3_116|Q0_473:Q1_6:Q2_186:Q3_245|Q0_88:Q1_756:Q2_135:Q3_407|Q0_286:Q1_936:Q2_945:Q3_565|Q0_652:Q1_82:Q2_585:Q3_496|Q0_832:Q1_333:Q2_1017:Q3_887|Q0_72:Q1_958:Q2_422:Q3_245|Q0_444:Q1_403:Q2_27:Q3_918|Q0_783:Q1_781:Q2_334:Q3_321|Q0_492:Q1_1002:Q2_132:Q3_715|Q0_243:Q1_588:Q2_1013:Q3_453|Q0_39:Q1_539:Q2_972:Q3_229|Q0_170:Q1_551:Q2_49:Q3_39|Q0_880:Q1_1002:Q2_150:Q3_702|Q0_172:Q1_450:Q2_50:Q3_878</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0079' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 79
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0080':\n<ENT>Entity_0080</ENT> <CODE>Q0_833:Q1_31:Q2_701:Q3_954|Q0_176:Q1_393:Q2_137:Q3_51|Q0_598:Q1_165:Q2_957:Q3_374|Q0_85:Q1_1022:Q2_372:Q3_978|Q0_364:Q1_106:Q2_624:Q3_76|Q0_726:Q1_707:Q2_422:Q3_117|Q0_695:Q1_730:Q2_179:Q3_854|Q0_527:Q1_1014:Q2_798:Q3_444|Q0_577:Q1_495:Q2_17:Q3_758|Q0_886:Q1_777:Q2_830:Q3_5|Q0_375:Q1_588:Q2_805:Q3_141|Q0_329:Q1_843:Q2_639:Q3_334|Q0_486:Q1_881:Q2_964:Q3_17|Q0_278:Q1_8:Q2_335:Q3_710|Q0_424:Q1_764:Q2_865:Q3_193|Q0_668:Q1_932:Q2_569:Q3_769</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0080' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 80
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0081':\n<ENT>Entity_0081</ENT> <CODE>Q0_874:Q1_367:Q2_935:Q3_962|Q0_47:Q1_372:Q2_508:Q3_80|Q0_41:Q1_177:Q2_349:Q3_451|Q0_434:Q1_200:Q2_967:Q3_258|Q0_784:Q1_634:Q2_31:Q3_887|Q0_895:Q1_764:Q2_988:Q3_739|Q0_226:Q1_950:Q2_701:Q3_599|Q0_530:Q1_284:Q2_736:Q3_530|Q0_368:Q1_104:Q2_451:Q3_831|Q0_1023:Q1_212:Q2_691:Q3_507|Q0_437:Q1_872:Q2_482:Q3_193|Q0_518:Q1_111:Q2_520:Q3_606|Q0_364:Q1_18:Q2_839:Q3_552|Q0_487:Q1_38:Q2_1003:Q3_566|Q0_996:Q1_789:Q2_878:Q3_885|Q0_391:Q1_284:Q2_525:Q3_989</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0081' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 81
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0082':\n<ENT>Entity_0082</ENT> <CODE>Q0_649:Q1_465:Q2_551:Q3_205|Q0_192:Q1_195:Q2_590:Q3_384|Q0_991:Q1_905:Q2_821:Q3_896|Q0_489:Q1_354:Q2_909:Q3_25|Q0_72:Q1_772:Q2_97:Q3_623|Q0_712:Q1_570:Q2_508:Q3_948|Q0_314:Q1_764:Q2_508:Q3_596|Q0_929:Q1_15:Q2_114:Q3_141|Q0_172:Q1_872:Q2_152:Q3_940|Q0_104:Q1_622:Q2_40:Q3_615|Q0_229:Q1_194:Q2_7:Q3_986|Q0_394:Q1_157:Q2_297:Q3_775|Q0_406:Q1_977:Q2_447:Q3_854|Q0_661:Q1_252:Q2_308:Q3_191|Q0_46:Q1_312:Q2_814:Q3_152|Q0_432:Q1_945:Q2_886:Q3_285</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0082' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 82
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0083':\n<ENT>Entity_0083</ENT> <CODE>Q0_129:Q1_729:Q2_987:Q3_702|Q0_403:Q1_878:Q2_994:Q3_51|Q0_575:Q1_772:Q2_116:Q3_835|Q0_176:Q1_115:Q2_810:Q3_758|Q0_336:Q1_898:Q2_865:Q3_191|Q0_652:Q1_615:Q2_599:Q3_25|Q0_169:Q1_719:Q2_448:Q3_777|Q0_256:Q1_187:Q2_885:Q3_498|Q0_779:Q1_380:Q2_704:Q3_383|Q0_311:Q1_787:Q2_1006:Q3_182|Q0_181:Q1_870:Q2_416:Q3_468|Q0_343:Q1_591:Q2_309:Q3_981|Q0_272:Q1_658:Q2_613:Q3_940|Q0_76:Q1_338:Q2_308:Q3_759|Q0_850:Q1_624:Q2_403:Q3_52|Q0_59:Q1_228:Q2_118:Q3_415</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0083' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 83
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0084':\n<ENT>Entity_0084</ENT> <CODE>Q0_486:Q1_91:Q2_995:Q3_335|Q0_734:Q1_499:Q2_191:Q3_604|Q0_461:Q1_110:Q2_737:Q3_141|Q0_958:Q1_441:Q2_821:Q3_848|Q0_507:Q1_419:Q2_941:Q3_887|Q0_192:Q1_932:Q2_442:Q3_662|Q0_390:Q1_878:Q2_331:Q3_310|Q0_834:Q1_648:Q2_659:Q3_229|Q0_994:Q1_330:Q2_839:Q3_81|Q0_353:Q1_41:Q2_717:Q3_524|Q0_580:Q1_518:Q2_317:Q3_715|Q0_567:Q1_427:Q2_60:Q3_335|Q0_818:Q1_570:Q2_485:Q3_941|Q0_816:Q1_863:Q2_214:Q3_500|Q0_139:Q1_475:Q2_488:Q3_152|Q0_784:Q1_555:Q2_962:Q3_553</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0084' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 84
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0085':\n<ENT>Entity_0085</ENT> <CODE>Q0_679:Q1_894:Q2_988:Q3_917|Q0_833:Q1_228:Q2_1009:Q3_392|Q0_183:Q1_533:Q2_759:Q3_901|Q0_129:Q1_770:Q2_544:Q3_745|Q0_136:Q1_597:Q2_925:Q3_548|Q0_505:Q1_56:Q2_394:Q3_484|Q0_56:Q1_735:Q2_362:Q3_76|Q0_791:Q1_872:Q2_306:Q3_515|Q0_67:Q1_448:Q2_835:Q3_934|Q0_988:Q1_1011:Q2_624:Q3_387|Q0_650:Q1_152:Q2_822:Q3_381|Q0_665:Q1_898:Q2_321:Q3_882|Q0_11:Q1_416:Q2_190:Q3_418|Q0_129:Q1_850:Q2_988:Q3_356|Q0_187:Q1_173:Q2_195:Q3_901|Q0_261:Q1_190:Q2_670:Q3_282</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0085' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 85
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0086':\n<ENT>Entity_0086</ENT> <CODE>Q0_540:Q1_203:Q2_972:Q3_796|Q0_229:Q1_203:Q2_268:Q3_829|Q0_772:Q1_419:Q2_969:Q3_80|Q0_539:Q1_252:Q2_897:Q3_240|Q0_293:Q1_273:Q2_196:Q3_741|Q0_575:Q1_688:Q2_162:Q3_245|Q0_750:Q1_320:Q2_685:Q3_400|Q0_277:Q1_349:Q2_420:Q3_822|Q0_249:Q1_1014:Q2_427:Q3_393|Q0_748:Q1_728:Q2_78:Q3_887|Q0_505:Q1_588:Q2_415:Q3_864|Q0_595:Q1_651:Q2_100:Q3_166|Q0_994:Q1_682:Q2_138:Q3_132|Q0_124:Q1_151:Q2_179:Q3_210|Q0_518:Q1_138:Q2_774:Q3_896|Q0_525:Q1_463:Q2_384:Q3_329</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0086' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 86
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0087':\n<ENT>Entity_0087</ENT> <CODE>Q0_39:Q1_497:Q2_78:Q3_208|Q0_256:Q1_936:Q2_748:Q3_137|Q0_1015:Q1_120:Q2_656:Q3_829|Q0_983:Q1_315:Q2_899:Q3_343|Q0_896:Q1_1015:Q2_135:Q3_638|Q0_647:Q1_856:Q2_897:Q3_292|Q0_968:Q1_619:Q2_962:Q3_266|Q0_345:Q1_494:Q2_419:Q3_52|Q0_57:Q1_919:Q2_559:Q3_857|Q0_162:Q1_573:Q2_418:Q3_349|Q0_590:Q1_502:Q2_815:Q3_284|Q0_177:Q1_622:Q2_885:Q3_15|Q0_494:Q1_63:Q2_285:Q3_81|Q0_441:Q1_419:Q2_225:Q3_163|Q0_285:Q1_82:Q2_510:Q3_91|Q0_1023:Q1_332:Q2_688:Q3_85</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0087' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 87
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0088':\n<ENT>Entity_0088</ENT> <CODE>Q0_602:Q1_133:Q2_877:Q3_846|Q0_441:Q1_149:Q2_49:Q3_784|Q0_0:Q1_729:Q2_319:Q3_471|Q0_339:Q1_713:Q2_333:Q3_723|Q0_732:Q1_446:Q2_897:Q3_240|Q0_757:Q1_173:Q2_423:Q3_67|Q0_730:Q1_329:Q2_400:Q3_586|Q0_880:Q1_730:Q2_469:Q3_212|Q0_1006:Q1_874:Q2_545:Q3_986|Q0_170:Q1_857:Q2_865:Q3_814|Q0_508:Q1_833:Q2_749:Q3_310|Q0_14:Q1_536:Q2_122:Q3_290|Q0_820:Q1_691:Q2_323:Q3_266|Q0_90:Q1_417:Q2_460:Q3_69|Q0_653:Q1_284:Q2_282:Q3_31|Q0_679:Q1_449:Q2_791:Q3_918</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0088' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 88
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0089':\n<ENT>Entity_0089</ENT> <CODE>Q0_539:Q1_655:Q2_672:Q3_169|Q0_458:Q1_286:Q2_310:Q3_886|Q0_1010:Q1_458:Q2_664:Q3_364|Q0_706:Q1_870:Q2_315:Q3_887|Q0_359:Q1_360:Q2_541:Q3_541|Q0_151:Q1_222:Q2_258:Q3_918|Q0_146:Q1_650:Q2_605:Q3_499|Q0_575:Q1_722:Q2_0:Q3_152|Q0_375:Q1_726:Q2_160:Q3_374|Q0_358:Q1_448:Q2_395:Q3_116|Q0_973:Q1_45:Q2_984:Q3_629|Q0_473:Q1_735:Q2_298:Q3_940|Q0_176:Q1_166:Q2_378:Q3_203|Q0_798:Q1_738:Q2_864:Q3_54|Q0_380:Q1_899:Q2_363:Q3_1020|Q0_214:Q1_185:Q2_324:Q3_809</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0089' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 89
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0090':\n<ENT>Entity_0090</ENT> <CODE>Q0_710:Q1_870:Q2_333:Q3_64|Q0_415:Q1_424:Q2_268:Q3_913|Q0_795:Q1_682:Q2_260:Q3_533|Q0_685:Q1_80:Q2_895:Q3_205|Q0_669:Q1_320:Q2_867:Q3_61|Q0_575:Q1_119:Q2_672:Q3_545|Q0_478:Q1_380:Q2_821:Q3_335|Q0_95:Q1_129:Q2_496:Q3_700|Q0_627:Q1_603:Q2_447:Q3_833|Q0_37:Q1_563:Q2_56:Q3_72|Q0_778:Q1_49:Q2_374:Q3_51|Q0_270:Q1_449:Q2_830:Q3_133|Q0_76:Q1_790:Q2_575:Q3_15|Q0_590:Q1_161:Q2_469:Q3_320|Q0_352:Q1_597:Q2_809:Q3_954|Q0_916:Q1_832:Q2_124:Q3_238</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0090' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 90
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0091':\n<ENT>Entity_0091</ENT> <CODE>Q0_157:Q1_570:Q2_489:Q3_159|Q0_2:Q1_495:Q2_420:Q3_916|Q0_744:Q1_894:Q2_674:Q3_328|Q0_539:Q1_346:Q2_403:Q3_88|Q0_60:Q1_398:Q2_400:Q3_553|Q0_973:Q1_790:Q2_861:Q3_326|Q0_27:Q1_857:Q2_957:Q3_293|Q0_351:Q1_1016:Q2_99:Q3_720|Q0_343:Q1_899:Q2_673:Q3_891|Q0_361:Q1_445:Q2_485:Q3_986|Q0_90:Q1_101:Q2_93:Q3_16|Q0_513:Q1_856:Q2_557:Q3_530|Q0_726:Q1_138:Q2_186:Q3_6|Q0_540:Q1_236:Q2_214:Q3_28|Q0_693:Q1_226:Q2_736:Q3_784|Q0_525:Q1_204:Q2_418:Q3_716</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0091' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 91
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0092':\n<ENT>Entity_0092</ENT> <CODE>Q0_500:Q1_87:Q2_563:Q3_474|Q0_193:Q1_469:Q2_144:Q3_372|Q0_878:Q1_104:Q2_46:Q3_764|Q0_661:Q1_51:Q2_876:Q3_191|Q0_390:Q1_445:Q2_109:Q3_43|Q0_964:Q1_825:Q2_906:Q3_944|Q0_806:Q1_427:Q2_914:Q3_354|Q0_539:Q1_919:Q2_65:Q3_43|Q0_256:Q1_310:Q2_497:Q3_193|Q0_502:Q1_127:Q2_437:Q3_440|Q0_916:Q1_257:Q2_259:Q3_17|Q0_497:Q1_878:Q2_308:Q3_273|Q0_403:Q1_597:Q2_437:Q3_220|Q0_61:Q1_888:Q2_299:Q3_8|Q0_462:Q1_470:Q2_189:Q3_78|Q0_474:Q1_818:Q2_460:Q3_158</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0092' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 92
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0093':\n<ENT>Entity_0093</ENT> <CODE>Q0_784:Q1_671:Q2_988:Q3_681|Q0_890:Q1_567:Q2_845:Q3_19|Q0_176:Q1_160:Q2_488:Q3_386|Q0_88:Q1_141:Q2_510:Q3_353|Q0_195:Q1_216:Q2_954:Q3_727|Q0_669:Q1_203:Q2_214:Q3_963|Q0_507:Q1_304:Q2_335:Q3_724|Q0_256:Q1_371:Q2_601:Q3_295|Q0_215:Q1_851:Q2_50:Q3_822|Q0_1007:Q1_310:Q2_229:Q3_339|Q0_904:Q1_306:Q2_285:Q3_944|Q0_922:Q1_78:Q2_446:Q3_265|Q0_191:Q1_502:Q2_988:Q3_900|Q0_451:Q1_731:Q2_62:Q3_33|Q0_866:Q1_975:Q2_66:Q3_41|Q0_929:Q1_458:Q2_85:Q3_495</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0093' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 93
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0094':\n<ENT>Entity_0094</ENT> <CODE>Q0_680:Q1_172:Q2_525:Q3_106|Q0_43:Q1_573:Q2_575:Q3_159|Q0_719:Q1_78:Q2_273:Q3_284|Q0_538:Q1_469:Q2_496:Q3_691|Q0_176:Q1_446:Q2_163:Q3_371|Q0_575:Q1_251:Q2_574:Q3_251|Q0_454:Q1_878:Q2_125:Q3_359|Q0_132:Q1_900:Q2_479:Q3_353|Q0_527:Q1_404:Q2_899:Q3_134|Q0_642:Q1_208:Q2_972:Q3_982|Q0_195:Q1_701:Q2_191:Q3_977|Q0_356:Q1_694:Q2_386:Q3_423|Q0_101:Q1_835:Q2_712:Q3_471|Q0_191:Q1_345:Q2_547:Q3_881|Q0_652:Q1_740:Q2_186:Q3_260|Q0_835:Q1_304:Q2_861:Q3_266</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0094' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 94
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0095':\n<ENT>Entity_0095</ENT> <CODE>Q0_184:Q1_361:Q2_78:Q3_13|Q0_611:Q1_729:Q2_142:Q3_324|Q0_108:Q1_349:Q2_510:Q3_746|Q0_987:Q1_824:Q2_133:Q3_243|Q0_24:Q1_445:Q2_968:Q3_189|Q0_505:Q1_61:Q2_409:Q3_363|Q0_307:Q1_87:Q2_753:Q3_662|Q0_958:Q1_557:Q2_869:Q3_488|Q0_988:Q1_357:Q2_369:Q3_155|Q0_839:Q1_328:Q2_1021:Q3_887|Q0_605:Q1_725:Q2_353:Q3_440|Q0_734:Q1_499:Q2_823:Q3_156|Q0_30:Q1_561:Q2_78:Q3_535|Q0_329:Q1_790:Q2_83:Q3_196|Q0_765:Q1_481:Q2_674:Q3_757|Q0_243:Q1_186:Q2_674:Q3_282</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0095' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 95
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0096':\n<ENT>Entity_0096</ENT> <CODE>Q0_820:Q1_641:Q2_899:Q3_1000|Q0_415:Q1_796:Q2_219:Q3_885|Q0_300:Q1_111:Q2_655:Q3_483|Q0_110:Q1_440:Q2_943:Q3_356|Q0_624:Q1_222:Q2_590:Q3_253|Q0_505:Q1_999:Q2_534:Q3_539|Q0_279:Q1_521:Q2_596:Q3_387|Q0_999:Q1_966:Q2_82:Q3_6|Q0_994:Q1_331:Q2_988:Q3_941|Q0_375:Q1_778:Q2_755:Q3_982|Q0_736:Q1_214:Q2_789:Q3_141|Q0_158:Q1_230:Q2_357:Q3_213|Q0_1:Q1_664:Q2_882:Q3_339|Q0_886:Q1_713:Q2_372:Q3_533|Q0_589:Q1_152:Q2_12:Q3_495|Q0_537:Q1_419:Q2_74:Q3_114</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0096' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 96
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0097':\n<ENT>Entity_0097</ENT> <CODE>Q0_72:Q1_778:Q2_159:Q3_964|Q0_668:Q1_952:Q2_925:Q3_97|Q0_966:Q1_23:Q2_959:Q3_138|Q0_818:Q1_414:Q2_63:Q3_440|Q0_851:Q1_875:Q2_772:Q3_740|Q0_508:Q1_835:Q2_972:Q3_718|Q0_448:Q1_56:Q2_68:Q3_40|Q0_503:Q1_143:Q2_967:Q3_852|Q0_79:Q1_790:Q2_515:Q3_982|Q0_807:Q1_349:Q2_742:Q3_64|Q0_749:Q1_734:Q2_583:Q3_963|Q0_391:Q1_703:Q2_888:Q3_252|Q0_663:Q1_159:Q2_383:Q3_290|Q0_738:Q1_133:Q2_908:Q3_425|Q0_748:Q1_154:Q2_988:Q3_360|Q0_116:Q1_861:Q2_237:Q3_11</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0097' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 97
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0098':\n<ENT>Entity_0098</ENT> <CODE>Q0_448:Q1_203:Q2_524:Q3_379|Q0_734:Q1_588:Q2_674:Q3_910|Q0_817:Q1_552:Q2_964:Q3_266|Q0_988:Q1_825:Q2_520:Q3_953|Q0_372:Q1_115:Q2_784:Q3_290|Q0_964:Q1_1002:Q2_369:Q3_688|Q0_529:Q1_873:Q2_254:Q3_976|Q0_829:Q1_449:Q2_398:Q3_985|Q0_820:Q1_536:Q2_295:Q3_13|Q0_126:Q1_394:Q2_441:Q3_941|Q0_70:Q1_228:Q2_454:Q3_40|Q0_996:Q1_234:Q2_641:Q3_360|Q0_922:Q1_519:Q2_260:Q3_55|Q0_835:Q1_21:Q2_290:Q3_716|Q0_260:Q1_11:Q2_432:Q3_425|Q0_24:Q1_561:Q2_29:Q3_458</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0098' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 98
+  },
+  {
+    "instruction": "Explain the quantized representation of entity 'Entity_0099':\n<ENT>Entity_0099</ENT> <CODE>Q0_941:Q1_817:Q2_135:Q3_339|Q0_110:Q1_674:Q2_215:Q3_691|Q0_261:Q1_917:Q2_845:Q3_739|Q0_939:Q1_679:Q2_923:Q3_307|Q0_904:Q1_860:Q2_12:Q3_977|Q0_261:Q1_835:Q2_737:Q3_169|Q0_601:Q1_335:Q2_516:Q3_295|Q0_172:Q1_1019:Q2_482:Q3_530|Q0_575:Q1_533:Q2_60:Q3_18|Q0_521:Q1_862:Q2_59:Q3_418|Q0_279:Q1_732:Q2_192:Q3_385|Q0_518:Q1_33:Q2_259:Q3_972|Q0_843:Q1_720:Q2_888:Q3_29|Q0_453:Q1_124:Q2_191:Q3_887|Q0_352:Q1_399:Q2_219:Q3_141|Q0_129:Q1_750:Q2_27:Q3_700</CODE>",
+    "input": "",
+    "output": "The quantized representation of 'Entity_0099' consists of 16 sequence positions, each with 4 quantizer levels. This representation captures the entity's semantic properties in a compressed format.",
+    "task_type": "understanding",
+    "entity_id": 99
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0000</ENT> <CODE>Q0_590:Q1_939:Q2_773:Q3_885|Q0_721:Q1_804:Q2_254:Q3_346|Q0_940:Q1_52:Q2_127:Q3_600|Q0_665:Q1_730:Q2_318:Q3_11|Q0_69:Q1_533:Q2_524:Q3_946|Q0_343:Q1_589:Q2_436:Q3_109|Q0_161:Q1_265:Q2_88:Q3_727|Q0_690:Q1_397:Q2_830:Q3_506|Q0_406:Q1_811:Q2_904:Q3_596|Q0_95:Q1_862:Q2_411:Q3_374|Q0_772:Q1_228:Q2_319:Q3_796|Q0_891:Q1_976:Q2_441:Q3_213|Q0_486:Q1_608:Q2_944:Q3_482|Q0_56:Q1_84:Q2_962:Q3_831|Q0_500:Q1_403:Q2_549:Q3_156|Q0_356:Q1_582:Q2_1005:Q3_240</CODE>\nRelation: relation_0\n<ENT>Entity_0001</ENT> <CODE>Q0_753:Q1_425:Q2_353:Q3_386|Q0_116:Q1_1003:Q2_941:Q3_669|Q0_736:Q1_720:Q2_590:Q3_141|Q0_129:Q1_874:Q2_93:Q3_615|Q0_492:Q1_755:Q2_696:Q3_359|Q0_218:Q1_127:Q2_749:Q3_11|Q0_456:Q1_934:Q2_452:Q3_346|Q0_655:Q1_356:Q2_387:Q3_113|Q0_693:Q1_888:Q2_363:Q3_879|Q0_27:Q1_745:Q2_109:Q3_560|Q0_481:Q1_124:Q2_323:Q3_117|Q0_964:Q1_974:Q2_945:Q3_757|Q0_276:Q1_445:Q2_724:Q3_326|Q0_527:Q1_257:Q2_437:Q3_623|Q0_191:Q1_1008:Q2_468:Q3_22|Q0_153:Q1_898:Q2_574:Q3_658</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0000' and 'Entity_0001' through 'relation_0' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0002</ENT> <CODE>Q0_547:Q1_372:Q2_400:Q3_65|Q0_458:Q1_4:Q2_839:Q3_718|Q0_846:Q1_730:Q2_831:Q3_305|Q0_303:Q1_297:Q2_945:Q3_80|Q0_690:Q1_248:Q2_834:Q3_689|Q0_320:Q1_416:Q2_116:Q3_993|Q0_757:Q1_790:Q2_98:Q3_875|Q0_417:Q1_770:Q2_925:Q3_557|Q0_146:Q1_956:Q2_368:Q3_290|Q0_586:Q1_730:Q2_459:Q3_105|Q0_162:Q1_959:Q2_1013:Q3_346|Q0_778:Q1_82:Q2_150:Q3_169|Q0_391:Q1_56:Q2_281:Q3_708|Q0_371:Q1_619:Q2_737:Q3_162|Q0_578:Q1_723:Q2_191:Q3_326|Q0_509:Q1_113:Q2_844:Q3_19</CODE>\nRelation: relation_1\n<ENT>Entity_0003</ENT> <CODE>Q0_654:Q1_901:Q2_547:Q3_240|Q0_750:Q1_969:Q2_997:Q3_917|Q0_388:Q1_341:Q2_169:Q3_535|Q0_527:Q1_79:Q2_487:Q3_952|Q0_224:Q1_871:Q2_539:Q3_613|Q0_272:Q1_684:Q2_914:Q3_245|Q0_375:Q1_357:Q2_947:Q3_634|Q0_690:Q1_615:Q2_574:Q3_525|Q0_504:Q1_176:Q2_404:Q3_363|Q0_973:Q1_119:Q2_305:Q3_353|Q0_398:Q1_393:Q2_74:Q3_0|Q0_494:Q1_900:Q2_309:Q3_637|Q0_88:Q1_9:Q2_382:Q3_790|Q0_473:Q1_6:Q2_150:Q3_6|Q0_883:Q1_823:Q2_737:Q3_155|Q0_693:Q1_458:Q2_353:Q3_319</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0002' and 'Entity_0003' through 'relation_1' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0004</ENT> <CODE>Q0_646:Q1_329:Q2_435:Q3_286|Q0_227:Q1_285:Q2_127:Q3_155|Q0_730:Q1_187:Q2_62:Q3_539|Q0_932:Q1_941:Q2_428:Q3_712|Q0_500:Q1_603:Q2_442:Q3_215|Q0_616:Q1_452:Q2_415:Q3_374|Q0_545:Q1_446:Q2_886:Q3_51|Q0_937:Q1_498:Q2_883:Q3_803|Q0_461:Q1_898:Q2_525:Q3_273|Q0_926:Q1_825:Q2_642:Q3_692|Q0_611:Q1_898:Q2_144:Q3_791|Q0_470:Q1_673:Q2_237:Q3_769|Q0_236:Q1_770:Q2_1021:Q3_848|Q0_377:Q1_603:Q2_981:Q3_959|Q0_600:Q1_93:Q2_854:Q3_483|Q0_698:Q1_764:Q2_100:Q3_629</CODE>\nRelation: relation_2\n<ENT>Entity_0005</ENT> <CODE>Q0_488:Q1_520:Q2_318:Q3_243|Q0_505:Q1_943:Q2_954:Q3_372|Q0_324:Q1_757:Q2_328:Q3_334|Q0_106:Q1_837:Q2_773:Q3_16|Q0_484:Q1_360:Q2_924:Q3_853|Q0_710:Q1_614:Q2_268:Q3_96|Q0_567:Q1_568:Q2_137:Q3_848|Q0_497:Q1_565:Q2_839:Q3_794|Q0_492:Q1_614:Q2_791:Q3_878|Q0_176:Q1_530:Q2_588:Q3_781|Q0_497:Q1_674:Q2_875:Q3_811|Q0_497:Q1_872:Q2_306:Q3_281|Q0_589:Q1_100:Q2_557:Q3_334|Q0_652:Q1_328:Q2_21:Q3_667|Q0_324:Q1_686:Q2_867:Q3_237|Q0_932:Q1_341:Q2_940:Q3_677</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0004' and 'Entity_0005' through 'relation_2' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      4,
+      2,
+      5
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0006</ENT> <CODE>Q0_874:Q1_459:Q2_798:Q3_321|Q0_334:Q1_758:Q2_545:Q3_775|Q0_1010:Q1_103:Q2_882:Q3_102|Q0_1011:Q1_551:Q2_547:Q3_251|Q0_274:Q1_291:Q2_944:Q3_63|Q0_244:Q1_283:Q2_497:Q3_349|Q0_24:Q1_568:Q2_286:Q3_18|Q0_156:Q1_976:Q2_964:Q3_821|Q0_372:Q1_357:Q2_460:Q3_15|Q0_67:Q1_87:Q2_368:Q3_958|Q0_470:Q1_361:Q2_488:Q3_339|Q0_627:Q1_737:Q2_932:Q3_170|Q0_215:Q1_349:Q2_834:Q3_60|Q0_436:Q1_875:Q2_691:Q3_887|Q0_990:Q1_638:Q2_779:Q3_850|Q0_488:Q1_425:Q2_492:Q3_800</CODE>\nRelation: relation_3\n<ENT>Entity_0007</ENT> <CODE>Q0_745:Q1_226:Q2_588:Q3_978|Q0_300:Q1_611:Q2_118:Q3_791|Q0_13:Q1_610:Q2_899:Q3_461|Q0_655:Q1_288:Q2_475:Q3_662|Q0_835:Q1_459:Q2_125:Q3_212|Q0_494:Q1_725:Q2_396:Q3_353|Q0_195:Q1_265:Q2_805:Q3_11|Q0_343:Q1_861:Q2_854:Q3_878|Q0_666:Q1_1002:Q2_452:Q3_746|Q0_834:Q1_790:Q2_574:Q3_739|Q0_842:Q1_721:Q2_445:Q3_596|Q0_734:Q1_896:Q2_524:Q3_424|Q0_486:Q1_651:Q2_460:Q3_474|Q0_1023:Q1_966:Q2_85:Q3_948|Q0_289:Q1_722:Q2_389:Q3_821|Q0_219:Q1_404:Q2_485:Q3_427</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0006' and 'Entity_0007' through 'relation_3' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      6,
+      3,
+      7
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0008</ENT> <CODE>Q0_156:Q1_793:Q2_373:Q3_961|Q0_748:Q1_246:Q2_421:Q3_372|Q0_1015:Q1_648:Q2_78:Q3_437|Q0_156:Q1_361:Q2_3:Q3_156|Q0_717:Q1_389:Q2_745:Q3_354|Q0_245:Q1_525:Q2_543:Q3_775|Q0_202:Q1_457:Q2_533:Q3_374|Q0_232:Q1_582:Q2_888:Q3_400|Q0_255:Q1_366:Q2_90:Q3_245|Q0_793:Q1_1015:Q2_515:Q3_243|Q0_791:Q1_733:Q2_807:Q3_952|Q0_523:Q1_196:Q2_452:Q3_571|Q0_460:Q1_56:Q2_30:Q3_359|Q0_988:Q1_940:Q2_85:Q3_631|Q0_84:Q1_831:Q2_295:Q3_642|Q0_990:Q1_1022:Q2_109:Q3_129</CODE>\nRelation: relation_4\n<ENT>Entity_0009</ENT> <CODE>Q0_695:Q1_845:Q2_845:Q3_81|Q0_940:Q1_889:Q2_423:Q3_190|Q0_729:Q1_637:Q2_647:Q3_500|Q0_302:Q1_965:Q2_733:Q3_718|Q0_809:Q1_726:Q2_818:Q3_217|Q0_593:Q1_739:Q2_524:Q3_401|Q0_286:Q1_885:Q2_7:Q3_814|Q0_434:Q1_417:Q2_60:Q3_921|Q0_130:Q1_780:Q2_602:Q3_364|Q0_111:Q1_97:Q2_85:Q3_151|Q0_50:Q1_463:Q2_223:Q3_850|Q0_987:Q1_987:Q2_51:Q3_106|Q0_650:Q1_620:Q2_485:Q3_712|Q0_169:Q1_301:Q2_915:Q3_384|Q0_245:Q1_870:Q2_925:Q3_128|Q0_260:Q1_501:Q2_499:Q3_63</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0008' and 'Entity_0009' through 'relation_4' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      8,
+      4,
+      9
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0010</ENT> <CODE>Q0_793:Q1_724:Q2_368:Q3_507|Q0_307:Q1_449:Q2_867:Q3_493|Q0_333:Q1_964:Q2_929:Q3_785|Q0_486:Q1_591:Q2_331:Q3_392|Q0_768:Q1_598:Q2_378:Q3_976|Q0_703:Q1_421:Q2_867:Q3_551|Q0_289:Q1_701:Q2_90:Q3_811|Q0_348:Q1_908:Q2_701:Q3_250|Q0_54:Q1_335:Q2_493:Q3_742|Q0_748:Q1_79:Q2_759:Q3_613|Q0_963:Q1_899:Q2_125:Q3_749|Q0_567:Q1_306:Q2_953:Q3_530|Q0_375:Q1_79:Q2_437:Q3_14|Q0_454:Q1_707:Q2_572:Q3_941|Q0_151:Q1_543:Q2_557:Q3_819|Q0_730:Q1_501:Q2_29:Q3_136</CODE>\nRelation: relation_5\n<ENT>Entity_0011</ENT> <CODE>Q0_481:Q1_757:Q2_734:Q3_642|Q0_937:Q1_159:Q2_700:Q3_528|Q0_456:Q1_208:Q2_342:Q3_329|Q0_193:Q1_435:Q2_152:Q3_486|Q0_116:Q1_651:Q2_803:Q3_940|Q0_60:Q1_921:Q2_818:Q3_8|Q0_824:Q1_530:Q2_585:Q3_18|Q0_322:Q1_507:Q2_524:Q3_886|Q0_441:Q1_417:Q2_118:Q3_796|Q0_679:Q1_620:Q2_59:Q3_336|Q0_100:Q1_329:Q2_1023:Q3_372|Q0_67:Q1_24:Q2_91:Q3_63|Q0_57:Q1_703:Q2_539:Q3_116|Q0_567:Q1_61:Q2_496:Q3_136|Q0_527:Q1_187:Q2_104:Q3_266|Q0_6:Q1_543:Q2_545:Q3_326</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0010' and 'Entity_0011' through 'relation_5' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      10,
+      5,
+      11
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0012</ENT> <CODE>Q0_425:Q1_38:Q2_928:Q3_971|Q0_67:Q1_685:Q2_1007:Q3_436|Q0_521:Q1_713:Q2_281:Q3_133|Q0_886:Q1_902:Q2_12:Q3_940|Q0_805:Q1_538:Q2_896:Q3_245|Q0_1021:Q1_321:Q2_539:Q3_525|Q0_407:Q1_304:Q2_419:Q3_38|Q0_820:Q1_823:Q2_839:Q3_144|Q0_30:Q1_424:Q2_865:Q3_629|Q0_539:Q1_127:Q2_433:Q3_339|Q0_763:Q1_892:Q2_109:Q3_31|Q0_441:Q1_689:Q2_228:Q3_590|Q0_374:Q1_452:Q2_776:Q3_182|Q0_84:Q1_446:Q2_100:Q3_692|Q0_831:Q1_1015:Q2_434:Q3_353|Q0_488:Q1_740:Q2_334:Q3_637</CODE>\nRelation: relation_6\n<ENT>Entity_0013</ENT> <CODE>Q0_338:Q1_797:Q2_83:Q3_638|Q0_419:Q1_459:Q2_373:Q3_561|Q0_750:Q1_582:Q2_769:Q3_702|Q0_922:Q1_738:Q2_814:Q3_332|Q0_896:Q1_403:Q2_487:Q3_290|Q0_254:Q1_735:Q2_223:Q3_468|Q0_736:Q1_818:Q2_997:Q3_13|Q0_302:Q1_269:Q2_116:Q3_276|Q0_614:Q1_504:Q2_196:Q3_68|Q0_0:Q1_713:Q2_1007:Q3_150|Q0_513:Q1_1004:Q2_935:Q3_746|Q0_539:Q1_912:Q2_40:Q3_19|Q0_54:Q1_976:Q2_869:Q3_722|Q0_141:Q1_818:Q2_447:Q3_198|Q0_706:Q1_109:Q2_927:Q3_691|Q0_151:Q1_477:Q2_121:Q3_61</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0012' and 'Entity_0013' through 'relation_6' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      12,
+      6,
+      13
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0014</ENT> <CODE>Q0_960:Q1_226:Q2_401:Q3_975|Q0_297:Q1_486:Q2_728:Q3_155|Q0_463:Q1_683:Q2_334:Q3_266|Q0_257:Q1_735:Q2_906:Q3_409|Q0_1017:Q1_482:Q2_823:Q3_561|Q0_534:Q1_431:Q2_428:Q3_245|Q0_789:Q1_980:Q2_1006:Q3_977|Q0_72:Q1_610:Q2_428:Q3_586|Q0_987:Q1_349:Q2_400:Q3_642|Q0_378:Q1_691:Q2_657:Q3_240|Q0_810:Q1_622:Q2_61:Q3_615|Q0_987:Q1_824:Q2_69:Q3_685|Q0_832:Q1_534:Q2_476:Q3_801|Q0_488:Q1_100:Q2_624:Q3_702|Q0_653:Q1_21:Q2_994:Q3_500|Q0_260:Q1_1017:Q2_411:Q3_152</CODE>\nRelation: relation_7\n<ENT>Entity_0015</ENT> <CODE>Q0_999:Q1_504:Q2_290:Q3_819|Q0_279:Q1_772:Q2_318:Q3_882|Q0_403:Q1_160:Q2_834:Q3_113|Q0_308:Q1_869:Q2_338:Q3_759|Q0_1002:Q1_151:Q2_875:Q3_61|Q0_147:Q1_716:Q2_297:Q3_170|Q0_270:Q1_304:Q2_812:Q3_878|Q0_126:Q1_332:Q2_888:Q3_159|Q0_338:Q1_894:Q2_793:Q3_658|Q0_806:Q1_470:Q2_66:Q3_387|Q0_382:Q1_12:Q2_895:Q3_494|Q0_1021:Q1_306:Q2_322:Q3_316|Q0_892:Q1_521:Q2_67:Q3_766|Q0_43:Q1_588:Q2_991:Q3_5|Q0_539:Q1_389:Q2_59:Q3_567|Q0_820:Q1_212:Q2_654:Q3_946</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0014' and 'Entity_0015' through 'relation_7' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      14,
+      7,
+      15
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0016</ENT> <CODE>Q0_939:Q1_600:Q2_860:Q3_606|Q0_908:Q1_143:Q2_368:Q3_483|Q0_88:Q1_864:Q2_454:Q3_597|Q0_924:Q1_206:Q2_953:Q3_692|Q0_497:Q1_450:Q2_342:Q3_400|Q0_391:Q1_448:Q2_722:Q3_7|Q0_669:Q1_325:Q2_535:Q3_838|Q0_308:Q1_624:Q2_460:Q3_129|Q0_385:Q1_93:Q2_342:Q3_321|Q0_154:Q1_825:Q2_121:Q3_320|Q0_868:Q1_212:Q2_943:Q3_606|Q0_950:Q1_974:Q2_704:Q3_359|Q0_53:Q1_912:Q2_634:Q3_12|Q0_795:Q1_352:Q2_508:Q3_848|Q0_756:Q1_832:Q2_1021:Q3_674|Q0_850:Q1_24:Q2_74:Q3_51</CODE>\nRelation: relation_8\n<ENT>Entity_0017</ENT> <CODE>Q0_810:Q1_732:Q2_682:Q3_66|Q0_935:Q1_344:Q2_463:Q3_861|Q0_999:Q1_722:Q2_133:Q3_509|Q0_343:Q1_999:Q2_306:Q3_553|Q0_154:Q1_48:Q2_476:Q3_882|Q0_604:Q1_228:Q2_1011:Q3_325|Q0_529:Q1_840:Q2_658:Q3_228|Q0_434:Q1_599:Q2_83:Q3_964|Q0_563:Q1_1017:Q2_209:Q3_978|Q0_878:Q1_682:Q2_864:Q3_251|Q0_926:Q1_788:Q2_512:Q3_399|Q0_946:Q1_246:Q2_588:Q3_637|Q0_353:Q1_114:Q2_463:Q3_936|Q0_424:Q1_330:Q2_106:Q3_784|Q0_54:Q1_143:Q2_488:Q3_692|Q0_866:Q1_166:Q2_962:Q3_425</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0016' and 'Entity_0017' through 'relation_8' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      16,
+      8,
+      17
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0018</ENT> <CODE>Q0_343:Q1_591:Q2_872:Q3_914|Q0_966:Q1_1002:Q2_539:Q3_881|Q0_129:Q1_127:Q2_924:Q3_113|Q0_504:Q1_778:Q2_619:Q3_250|Q0_146:Q1_905:Q2_992:Q3_947|Q0_883:Q1_104:Q2_62:Q3_741|Q0_219:Q1_263:Q2_866:Q3_901|Q0_667:Q1_591:Q2_872:Q3_674|Q0_256:Q1_830:Q2_520:Q3_339|Q0_484:Q1_233:Q2_932:Q3_759|Q0_96:Q1_549:Q2_381:Q3_948|Q0_523:Q1_330:Q2_982:Q3_266|Q0_366:Q1_194:Q2_972:Q3_357|Q0_696:Q1_419:Q2_912:Q3_400|Q0_236:Q1_452:Q2_440:Q3_33|Q0_6:Q1_196:Q2_527:Q3_700</CODE>\nRelation: relation_9\n<ENT>Entity_0019</ENT> <CODE>Q0_231:Q1_790:Q2_924:Q3_9|Q0_54:Q1_124:Q2_363:Q3_727|Q0_215:Q1_178:Q2_353:Q3_842|Q0_296:Q1_691:Q2_912:Q3_900|Q0_81:Q1_528:Q2_411:Q3_940|Q0_311:Q1_687:Q2_959:Q3_295|Q0_601:Q1_419:Q2_907:Q3_415|Q0_19:Q1_1015:Q2_527:Q3_560|Q0_1021:Q1_976:Q2_590:Q3_19|Q0_158:Q1_416:Q2_357:Q3_336|Q0_467:Q1_138:Q2_373:Q3_307|Q0_343:Q1_533:Q2_91:Q3_323|Q0_989:Q1_417:Q2_159:Q3_878|Q0_243:Q1_82:Q2_260:Q3_733|Q0_950:Q1_806:Q2_935:Q3_367|Q0_609:Q1_696:Q2_56:Q3_114</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0018' and 'Entity_0019' through 'relation_9' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      18,
+      9,
+      19
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0020</ENT> <CODE>Q0_793:Q1_863:Q2_328:Q3_488|Q0_129:Q1_1002:Q2_353:Q3_52|Q0_1002:Q1_925:Q2_557:Q3_918|Q0_67:Q1_729:Q2_366:Q3_68|Q0_803:Q1_304:Q2_572:Q3_65|Q0_103:Q1_588:Q2_1009:Q3_12|Q0_614:Q1_558:Q2_279:Q3_282|Q0_920:Q1_461:Q2_295:Q3_700|Q0_862:Q1_864:Q2_784:Q3_14|Q0_870:Q1_545:Q2_286:Q3_487|Q0_705:Q1_635:Q2_599:Q3_188|Q0_56:Q1_6:Q2_724:Q3_273|Q0_730:Q1_8:Q2_159:Q3_796|Q0_721:Q1_448:Q2_482:Q3_400|Q0_204:Q1_840:Q2_610:Q3_68|Q0_184:Q1_188:Q2_116:Q3_265</CODE>\nRelation: relation_0\n<ENT>Entity_0021</ENT> <CODE>Q0_6:Q1_458:Q2_944:Q3_47|Q0_68:Q1_913:Q2_152:Q3_514|Q0_818:Q1_671:Q2_61:Q3_941|Q0_19:Q1_757:Q2_962:Q3_425|Q0_358:Q1_220:Q2_423:Q3_266|Q0_180:Q1_959:Q2_962:Q3_901|Q0_124:Q1_966:Q2_839:Q3_801|Q0_177:Q1_994:Q2_26:Q3_642|Q0_279:Q1_966:Q2_452:Q3_494|Q0_202:Q1_562:Q2_192:Q3_643|Q0_523:Q1_367:Q2_793:Q3_959|Q0_513:Q1_341:Q2_810:Q3_886|Q0_503:Q1_9:Q2_613:Q3_545|Q0_653:Q1_24:Q2_844:Q3_371|Q0_225:Q1_544:Q2_400:Q3_169|Q0_829:Q1_679:Q2_839:Q3_384</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0020' and 'Entity_0021' through 'relation_0' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      20,
+      0,
+      21
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0022</ENT> <CODE>Q0_343:Q1_636:Q2_60:Q3_444|Q0_260:Q1_111:Q2_725:Q3_25|Q0_873:Q1_580:Q2_731:Q3_166|Q0_368:Q1_687:Q2_685:Q3_803|Q0_334:Q1_302:Q2_159:Q3_19|Q0_850:Q1_658:Q2_297:Q3_346|Q0_288:Q1_886:Q2_310:Q3_767|Q0_320:Q1_349:Q2_256:Q3_533|Q0_655:Q1_138:Q2_491:Q3_510|Q0_883:Q1_357:Q2_381:Q3_248|Q0_477:Q1_881:Q2_366:Q3_244|Q0_745:Q1_414:Q2_318:Q3_213|Q0_518:Q1_952:Q2_256:Q3_54|Q0_129:Q1_194:Q2_132:Q3_402|Q0_108:Q1_966:Q2_345:Q3_321|Q0_916:Q1_187:Q2_125:Q3_1008</CODE>\nRelation: relation_1\n<ENT>Entity_0023</ENT> <CODE>Q0_898:Q1_353:Q2_722:Q3_267|Q0_647:Q1_919:Q2_964:Q3_189|Q0_690:Q1_638:Q2_798:Q3_688|Q0_652:Q1_173:Q2_445:Q3_835|Q0_296:Q1_729:Q2_346:Q3_163|Q0_450:Q1_138:Q2_442:Q3_940|Q0_372:Q1_173:Q2_1023:Q3_147|Q0_243:Q1_157:Q2_736:Q3_692|Q0_1005:Q1_568:Q2_338:Q3_748|Q0_824:Q1_604:Q2_150:Q3_221|Q0_420:Q1_662:Q2_54:Q3_374|Q0_738:Q1_76:Q2_260:Q3_821|Q0_488:Q1_394:Q2_841:Q3_868|Q0_191:Q1_591:Q2_196:Q3_700|Q0_611:Q1_427:Q2_608:Q3_759|Q0_239:Q1_216:Q2_1009:Q3_797</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0022' and 'Entity_0023' through 'relation_1' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      22,
+      1,
+      23
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0024</ENT> <CODE>Q0_821:Q1_646:Q2_861:Q3_141|Q0_338:Q1_470:Q2_267:Q3_777|Q0_294:Q1_84:Q2_240:Q3_400|Q0_986:Q1_764:Q2_499:Q3_374|Q0_872:Q1_671:Q2_116:Q3_781|Q0_334:Q1_120:Q2_383:Q3_299|Q0_365:Q1_603:Q2_331:Q3_524|Q0_735:Q1_772:Q2_1021:Q3_896|Q0_748:Q1_445:Q2_529:Q3_674|Q0_420:Q1_769:Q2_428:Q3_1013|Q0_593:Q1_731:Q2_191:Q3_803|Q0_107:Q1_177:Q2_400:Q3_600|Q0_338:Q1_599:Q2_664:Q3_921|Q0_192:Q1_101:Q2_333:Q3_106|Q0_904:Q1_291:Q2_539:Q3_1002|Q0_696:Q1_430:Q2_409:Q3_741</CODE>\nRelation: relation_2\n<ENT>Entity_0025</ENT> <CODE>Q0_803:Q1_670:Q2_614:Q3_29|Q0_361:Q1_888:Q2_860:Q3_384|Q0_425:Q1_647:Q2_571:Q3_393|Q0_24:Q1_234:Q2_584:Q3_688|Q0_425:Q1_8:Q2_590:Q3_914|Q0_112:Q1_212:Q2_138:Q3_350|Q0_931:Q1_898:Q2_685:Q3_414|Q0_296:Q1_651:Q2_267:Q3_88|Q0_451:Q1_599:Q2_109:Q3_245|Q0_37:Q1_353:Q2_925:Q3_700|Q0_14:Q1_691:Q2_889:Q3_445|Q0_283:Q1_939:Q2_487:Q3_399|Q0_231:Q1_269:Q2_259:Q3_805|Q0_843:Q1_141:Q2_746:Q3_901|Q0_567:Q1_568:Q2_419:Q3_348|Q0_799:Q1_228:Q2_869:Q3_414</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0024' and 'Entity_0025' through 'relation_2' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      24,
+      2,
+      25
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0026</ENT> <CODE>Q0_486:Q1_87:Q2_829:Q3_906|Q0_702:Q1_330:Q2_953:Q3_138|Q0_337:Q1_417:Q2_118:Q3_461|Q0_926:Q1_713:Q2_763:Q3_819|Q0_988:Q1_356:Q2_315:Q3_451|Q0_650:Q1_857:Q2_60:Q3_513|Q0_90:Q1_832:Q2_133:Q3_996|Q0_781:Q1_879:Q2_765:Q3_489|Q0_889:Q1_919:Q2_207:Q3_386|Q0_745:Q1_557:Q2_755:Q3_423|Q0_147:Q1_367:Q2_529:Q3_136|Q0_589:Q1_184:Q2_1021:Q3_535|Q0_657:Q1_867:Q2_68:Q3_458|Q0_74:Q1_348:Q2_544:Q3_459|Q0_803:Q1_196:Q2_133:Q3_117|Q0_500:Q1_70:Q2_875:Q3_821</CODE>\nRelation: relation_3\n<ENT>Entity_0027</ENT> <CODE>Q0_88:Q1_486:Q2_648:Q3_852|Q0_236:Q1_141:Q2_571:Q3_389|Q0_679:Q1_588:Q2_704:Q3_316|Q0_1003:Q1_673:Q2_547:Q3_513|Q0_859:Q1_859:Q2_125:Q3_643|Q0_696:Q1_994:Q2_793:Q3_629|Q0_693:Q1_110:Q2_557:Q3_813|Q0_297:Q1_862:Q2_545:Q3_60|Q0_1014:Q1_109:Q2_240:Q3_963|Q0_458:Q1_53:Q2_526:Q3_399|Q0_820:Q1_449:Q2_427:Q3_822|Q0_772:Q1_580:Q2_475:Q3_332|Q0_217:Q1_519:Q2_411:Q3_130|Q0_661:Q1_874:Q2_84:Q3_8|Q0_465:Q1_530:Q2_674:Q3_39|Q0_126:Q1_734:Q2_899:Q3_791</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0026' and 'Entity_0027' through 'relation_3' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      26,
+      3,
+      27
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0028</ENT> <CODE>Q0_14:Q1_534:Q2_209:Q3_61|Q0_504:Q1_208:Q2_724:Q3_178|Q0_287:Q1_419:Q2_945:Q3_128|Q0_260:Q1_687:Q2_363:Q3_955|Q0_600:Q1_1022:Q2_732:Q3_950|Q0_255:Q1_812:Q2_948:Q3_724|Q0_547:Q1_733:Q2_141:Q3_467|Q0_924:Q1_597:Q2_348:Q3_401|Q0_689:Q1_149:Q2_388:Q3_500|Q0_301:Q1_187:Q2_60:Q3_507|Q0_420:Q1_519:Q2_527:Q3_240|Q0_302:Q1_398:Q2_0:Q3_1010|Q0_225:Q1_514:Q2_897:Q3_936|Q0_238:Q1_87:Q2_911:Q3_948|Q0_946:Q1_1003:Q2_433:Q3_86|Q0_601:Q1_94:Q2_413:Q3_946</CODE>\nRelation: relation_4\n<ENT>Entity_0029</ENT> <CODE>Q0_833:Q1_648:Q2_801:Q3_994|Q0_287:Q1_248:Q2_219:Q3_975|Q0_75:Q1_701:Q2_914:Q3_182|Q0_458:Q1_208:Q2_225:Q3_372|Q0_872:Q1_696:Q2_889:Q3_33|Q0_368:Q1_50:Q2_962:Q3_401|Q0_334:Q1_536:Q2_545:Q3_742|Q0_393:Q1_533:Q2_400:Q3_681|Q0_47:Q1_431:Q2_823:Q3_243|Q0_935:Q1_870:Q2_230:Q3_102|Q0_129:Q1_481:Q2_972:Q3_786|Q0_708:Q1_372:Q2_934:Q3_985|Q0_898:Q1_492:Q2_110:Q3_637|Q0_995:Q1_91:Q2_435:Q3_266|Q0_650:Q1_764:Q2_991:Q3_216|Q0_39:Q1_1015:Q2_475:Q3_535</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0028' and 'Entity_0029' through 'relation_4' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      28,
+      4,
+      29
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0030</ENT> <CODE>Q0_504:Q1_713:Q2_911:Q3_478|Q0_916:Q1_311:Q2_932:Q3_205|Q0_816:Q1_164:Q2_866:Q3_887|Q0_312:Q1_149:Q2_674:Q3_282|Q0_377:Q1_835:Q2_923:Q3_31|Q0_926:Q1_311:Q2_110:Q3_551|Q0_289:Q1_1005:Q2_358:Q3_356|Q0_658:Q1_469:Q2_366:Q3_690|Q0_791:Q1_73:Q2_322:Q3_190|Q0_303:Q1_778:Q2_27:Q3_745|Q0_690:Q1_154:Q2_944:Q3_13|Q0_463:Q1_100:Q2_309:Q3_402|Q0_569:Q1_951:Q2_882:Q3_741|Q0_320:Q1_330:Q2_908:Q3_61|Q0_695:Q1_269:Q2_801:Q3_699|Q0_268:Q1_74:Q2_310:Q3_353</CODE>\nRelation: relation_5\n<ENT>Entity_0031</ENT> <CODE>Q0_490:Q1_751:Q2_362:Q3_158|Q0_225:Q1_876:Q2_84:Q3_977|Q0_878:Q1_357:Q2_222:Q3_418|Q0_124:Q1_932:Q2_387:Q3_582|Q0_469:Q1_671:Q2_732:Q3_208|Q0_425:Q1_165:Q2_508:Q3_609|Q0_831:Q1_967:Q2_997:Q3_81|Q0_456:Q1_265:Q2_865:Q3_579|Q0_575:Q1_234:Q2_812:Q3_906|Q0_112:Q1_936:Q2_732:Q3_294|Q0_187:Q1_608:Q2_85:Q3_1010|Q0_999:Q1_528:Q2_834:Q3_708|Q0_176:Q1_161:Q2_106:Q3_162|Q0_227:Q1_115:Q2_339:Q3_819|Q0_795:Q1_4:Q2_988:Q3_877|Q0_1014:Q1_82:Q2_468:Q3_786</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0030' and 'Entity_0031' through 'relation_5' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      30,
+      5,
+      31
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0032</ENT> <CODE>Q0_272:Q1_687:Q2_844:Q3_371|Q0_539:Q1_687:Q2_539:Q3_759|Q0_761:Q1_24:Q2_672:Q3_811|Q0_458:Q1_393:Q2_479:Q3_947|Q0_930:Q1_951:Q2_61:Q3_688|Q0_843:Q1_440:Q2_813:Q3_372|Q0_772:Q1_315:Q2_959:Q3_852|Q0_460:Q1_335:Q2_776:Q3_530|Q0_15:Q1_294:Q2_326:Q3_835|Q0_255:Q1_339:Q2_960:Q3_833|Q0_689:Q1_502:Q2_207:Q3_190|Q0_171:Q1_994:Q2_619:Q3_773|Q0_646:Q1_416:Q2_590:Q3_137|Q0_448:Q1_604:Q2_620:Q3_615|Q0_833:Q1_70:Q2_93:Q3_28|Q0_283:Q1_841:Q2_264:Q3_169</CODE>\nRelation: relation_6\n<ENT>Entity_0033</ENT> <CODE>Q0_757:Q1_248:Q2_118:Q3_766|Q0_914:Q1_634:Q2_674:Q3_611|Q0_268:Q1_133:Q2_209:Q3_712|Q0_225:Q1_203:Q2_34:Q3_17|Q0_585:Q1_495:Q2_114:Q3_887|Q0_88:Q1_652:Q2_140:Q3_538|Q0_690:Q1_45:Q2_717:Q3_224|Q0_650:Q1_764:Q2_54:Q3_941|Q0_614:Q1_166:Q2_420:Q3_681|Q0_219:Q1_321:Q2_209:Q3_978|Q0_593:Q1_87:Q2_195:Q3_947|Q0_95:Q1_461:Q2_991:Q3_710|Q0_308:Q1_938:Q2_845:Q3_281|Q0_333:Q1_977:Q2_639:Q3_190|Q0_821:Q1_690:Q2_10:Q3_500|Q0_661:Q1_568:Q2_912:Q3_613</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0032' and 'Entity_0033' through 'relation_6' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      32,
+      6,
+      33
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0034</ENT> <CODE>Q0_657:Q1_878:Q2_225:Q3_817|Q0_458:Q1_889:Q2_261:Q3_1020|Q0_891:Q1_454:Q2_1010:Q3_986|Q0_413:Q1_124:Q2_165:Q3_250|Q0_978:Q1_674:Q2_106:Q3_312|Q0_398:Q1_789:Q2_1005:Q3_620|Q0_652:Q1_123:Q2_191:Q3_982|Q0_500:Q1_647:Q2_934:Q3_867|Q0_505:Q1_725:Q2_432:Q3_136|Q0_949:Q1_345:Q2_487:Q3_584|Q0_458:Q1_97:Q2_384:Q3_203|Q0_85:Q1_200:Q2_935:Q3_401|Q0_384:Q1_403:Q2_116:Q3_550|Q0_486:Q1_599:Q2_830:Q3_783|Q0_79:Q1_53:Q2_416:Q3_418|Q0_460:Q1_186:Q2_432:Q3_433</CODE>\nRelation: relation_7\n<ENT>Entity_0035</ENT> <CODE>Q0_821:Q1_501:Q2_230:Q3_366|Q0_361:Q1_703:Q2_882:Q3_560|Q0_500:Q1_812:Q2_148:Q3_977|Q0_283:Q1_580:Q2_209:Q3_689|Q0_609:Q1_356:Q2_62:Q3_999|Q0_42:Q1_296:Q2_948:Q3_901|Q0_538:Q1_797:Q2_97:Q3_427|Q0_896:Q1_789:Q2_925:Q3_588|Q0_21:Q1_1016:Q2_317:Q3_326|Q0_1007:Q1_703:Q2_948:Q3_584|Q0_351:Q1_222:Q2_535:Q3_9|Q0_238:Q1_459:Q2_182:Q3_54|Q0_831:Q1_496:Q2_882:Q3_851|Q0_862:Q1_53:Q2_957:Q3_822|Q0_634:Q1_302:Q2_845:Q3_839|Q0_44:Q1_919:Q2_65:Q3_367</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0034' and 'Entity_0035' through 'relation_7' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      34,
+      7,
+      35
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0036</ENT> <CODE>Q0_664:Q1_791:Q2_872:Q3_418|Q0_206:Q1_651:Q2_551:Q3_535|Q0_878:Q1_941:Q2_256:Q3_961|Q0_90:Q1_609:Q2_151:Q3_116|Q0_462:Q1_195:Q2_645:Q3_881|Q0_27:Q1_588:Q2_934:Q3_994|Q0_892:Q1_1002:Q2_262:Q3_11|Q0_27:Q1_614:Q2_647:Q3_861|Q0_338:Q1_777:Q2_992:Q3_51|Q0_443:Q1_497:Q2_1021:Q3_555|Q0_950:Q1_995:Q2_152:Q3_758|Q0_545:Q1_486:Q2_199:Q3_620|Q0_508:Q1_889:Q2_722:Q3_150|Q0_778:Q1_1016:Q2_82:Q3_615|Q0_494:Q1_878:Q2_986:Q3_11|Q0_527:Q1_790:Q2_685:Q3_339</CODE>\nRelation: relation_8\n<ENT>Entity_0037</ENT> <CODE>Q0_157:Q1_187:Q2_916:Q3_319|Q0_570:Q1_539:Q2_169:Q3_724|Q0_184:Q1_1016:Q2_661:Q3_414|Q0_279:Q1_367:Q2_933:Q3_321|Q0_989:Q1_182:Q2_608:Q3_295|Q0_875:Q1_427:Q2_337:Q3_33|Q0_601:Q1_658:Q2_500:Q3_343|Q0_328:Q1_912:Q2_908:Q3_194|Q0_288:Q1_470:Q2_897:Q3_940|Q0_503:Q1_435:Q2_754:Q3_67|Q0_321:Q1_778:Q2_863:Q3_424|Q0_832:Q1_533:Q2_250:Q3_216|Q0_532:Q1_790:Q2_882:Q3_821|Q0_823:Q1_880:Q2_238:Q3_671|Q0_601:Q1_732:Q2_668:Q3_106|Q0_833:Q1_731:Q2_436:Q3_985</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0036' and 'Entity_0037' through 'relation_8' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      36,
+      8,
+      37
+    ]
+  },
+  {
+    "instruction": "Validate the knowledge triplet:\n<ENT>Entity_0038</ENT> <CODE>Q0_338:Q1_569:Q2_754:Q3_425|Q0_989:Q1_311:Q2_520:Q3_1002|Q0_731:Q1_20:Q2_435:Q3_85|Q0_503:Q1_940:Q2_279:Q3_934|Q0_981:Q1_8:Q2_427:Q3_548|Q0_818:Q1_91:Q2_433:Q3_102|Q0_286:Q1_934:Q2_790:Q3_98|Q0_835:Q1_512:Q2_169:Q3_11|Q0_1005:Q1_579:Q2_350:Q3_310|Q0_286:Q1_109:Q2_776:Q3_39|Q0_542:Q1_518:Q2_372:Q3_921|Q0_319:Q1_873:Q2_882:Q3_1020|Q0_357:Q1_246:Q2_493:Q3_917|Q0_56:Q1_397:Q2_82:Q3_353|Q0_582:Q1_790:Q2_724:Q3_265|Q0_498:Q1_730:Q2_18:Q3_674</CODE>\nRelation: relation_9\n<ENT>Entity_0039</ENT> <CODE>Q0_286:Q1_41:Q2_549:Q3_959|Q0_872:Q1_722:Q2_152:Q3_642|Q0_497:Q1_462:Q2_812:Q3_727|Q0_460:Q1_222:Q2_979:Q3_642|Q0_375:Q1_687:Q2_326:Q3_152|Q0_703:Q1_792:Q2_779:Q3_334|Q0_570:Q1_152:Q2_941:Q3_514|Q0_738:Q1_56:Q2_689:Q3_136|Q0_690:Q1_798:Q2_250:Q3_312|Q0_929:Q1_148:Q2_793:Q3_85|Q0_481:Q1_731:Q2_437:Q3_698|Q0_364:Q1_287:Q2_125:Q3_141|Q0_141:Q1_132:Q2_59:Q3_130|Q0_1011:Q1_34:Q2_688:Q3_857|Q0_390:Q1_208:Q2_815:Q3_360|Q0_534:Q1_580:Q2_106:Q3_741</CODE>\nIs this triplet valid?",
+    "input": "",
+    "output": "Yes, this knowledge triplet is valid. The relationship between 'Entity_0038' and 'Entity_0039' through 'relation_9' is supported by their quantized representations.",
+    "task_type": "validation",
+    "triplet": [
+      38,
+      9,
+      39
+    ]
+  }
+]

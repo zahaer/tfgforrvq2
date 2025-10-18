@@ -1,0 +1,19 @@
+{
+  "base_model_name": "meta-llama/Llama-2-7b-hf",
+  "lora_config": {
+    "r": 16,
+    "lora_alpha": 32,
+    "target_modules": [
+      "q_proj",
+      "v_proj",
+      "k_proj",
+      "o_proj"
+    ],
+    "lora_dropout": 0.1
+  },
+  "training_args": {
+    "learning_rate": 0.0002,
+    "batch_size": 4,
+    "num_epochs": 3
+  }
+}
